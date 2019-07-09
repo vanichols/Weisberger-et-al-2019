@@ -1,0 +1,72 @@
+---
+title: "S2 Text for Manuscript 'Does crop diversification supress weeds? A meta-analysis"
+author: " "
+date: " "
+output:
+  pdf_document:
+    fig_cap: yes
+    keep_tex: yes
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, knitr.table.format = "latex")
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(here)
+setwd(here())
+```
+
+#Data extraction
+
+The following table presents the data extracted from the studies listed in the meta-analysis bibliography. Each variable is discussed in more detail below. The raw data set, a complete data dictionary, and associated information are freely available through Iowa State University's DataShare wesbite. The citation for this dataset is as follows:
+
+*Nichols, Virginia, Weisberger David, Liebman Matt (2019). Effect of crop rotation on weed biomass and density literature summary. Iowa State University. Dataset. httpsL//doi.org/10.25380/iastate.7771010.v1*
+
+```{r data dictionary}
+read_csv("data-dictionary-PIVI.csv") %>%
+  select(1:3) %>%
+  knitr::kable(caption = "Data extracted from published studies", align = "c") %>%
+  row_spec(0, bold = T) %>%
+  kable_styling(latex_options = c("striped", "condensed", "hold_position"))
+```
+
+
+##lat and long, latitude class
+
+For latitude, any study conducted above 35 deg latitude was considered temperate, while any study conducted below this latitude was considered sub-tropical or tropical (Fig. 1 of main manuscript). Studies were divided along these lines in order to have adequate sample sizes for analysis.
+ 
+##data_type and reps
+
+If a study provided weed response data for multiple time points within a given site-year, data from the last reported measurement were used. Data were also reported in three different ways with respect to measurements over site-years: at an end time point (last, n = 110), averaged over multiple years (average, n = 61), or values from multiple years (repeated measures, n = 720). To create a data set with as much uniformity as possible, we transformed repeated measures data points into last and average response data points based on the length of the study in relation to the length of the longest rotation. If data were measured after the study had been in place more than two rotation cycles, the responses were averaged, and the number of replicates associated with the data were adjusted accordingly. For data measured in studies less than two rotation cycles old, the last year's measurement was used. Several studies included treatments not relevant to our hypotheses (e.g. crop planting date, herbicide rate). In these instances, data were pooled over levels of the factor with no increase in effective replication. 
+
+##sys_tillage and sys_weedmgmt
+
+Data relative to the tillage regime and herbicide use were only extracted and included if applied uniformly over rotation treatments. Where tillage or herbicide treatments differed by rotation, these modifiers were assigned *IC* values, which were interpreted as *NAs* for analyses. 
+
+##weedmsmt_unit
+
+Where only individual weed species were studied, response data represent measurements of that species solely (single species). Where weed communities were studied, weed response data were aggregated (community). 
+
+##fallowYN
+Use of a fallow period in a rotation was recorded. 
+
+##perenYN
+Use of a perennial crop that was in place for more than one calendar year was recorded.  
+
+##checkcrop
+The crop the weed responses were measured in was recorded. Comparisons between rotations were only made if measurements were made in the same crop. 
+
+##species_nu
+For all rotations, the number of species 'units' present in the rotation were recorded. When calculating the number of species units present in a rotation, cover crops and pasture were counted as one species unit even if they were present as diverse mixtures composed of two or more species. We felt it was inappropriate to inflate the species number of a rotation if they were being grown together as one functional unit.
+
+##PICV
+Planting month data were used in the development of an index accounting for the variance around planting date, a potential proxy for the functional diversity of a crop rotation system (Gaba et al., 2014). When information about the planting date of each crop in the study was not reported and was unavailable via personal communication, we used gray literature (extension and non-governmental organization publications) from institutions most proximate to study locations. The number of months between plantings for one complete rotation cycle was recorded, and the mean and standard deviation of those numbers was calculated. The coefficient of variation was calculated by dividing the standard deviation by the mean. This value was reported for each rotation. 
+
+
+##monoYN
+An additional modifier was assigned to comparisons of simple and diverse rotations that indicated whether the simple rotation was a monoculture. Any rotation with a species unit number of one was assigned monoculture status. 
+

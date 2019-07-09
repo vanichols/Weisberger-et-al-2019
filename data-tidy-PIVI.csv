@@ -1,0 +1,266 @@
+study_id,reference,lat,long,climclasslat2,reps,reps_pooledyrs,wgt,checkcrop,cropseq_simp,rotlength_simp,cropseq_div,rotlength_div,data_type2,study_age,maxstudyage,sys_tillage,sys_weedmgmt2,weedmsmt_unit,peren_divYN,fallow_simpYN,PISD_diff,PICV_diff,species_rat,mono_YN,bioLRR,denLRR
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,temperate,4,4,2,O,O,1,Fl-Ry-Db-Tr-Po-O,6,RM-last,6,6,tilled,herb_Y,community,N,N,6.047037842337906,0.49701680895927997,6,Y,-2.795473016073369,-1.1756534933378895
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,temperate,4,4,2,O,O,1,Fl-Ry-Db-Tr-Po-O,6,RM-last,6,6,tilled,herb_N,community,N,N,6.047037842337906,0.49701680895927997,6,Y,-1.6273698690726786,-0.8519029801995918
+2,"Anderson and Beck, 2007",44.355357,-100.367791,temperate,4,4,2,W,F-W,2,Ch-W,2,LAST,12,12,NT,herb_Y,community,N,Y,11.313708498984761,0.9428090415820635,2,Y,NA,0.598836501088704
+2,"Anderson and Beck, 2007",44.355357,-100.367791,temperate,4,4,2,W,F-W,2,M-Ch-W,3,LAST,12,12,NT,herb_Y,community,N,Y,8,0.6666666666666666,3,Y,NA,-0.6348782724359695
+2,"Anderson and Beck, 2007",44.355357,-100.367791,temperate,4,4,2,W,F-W,2,M-F-W,3,LAST,12,12,NT,herb_Y,community,N,Y,2.8284271247461903,0.15713484026367724,3,Y,NA,-1.8325814637483102
+2,"Anderson and Beck, 2007",44.355357,-100.367791,temperate,4,4,2,W,F-W,2,M-Fp-W,3,LAST,12,12,NT,herb_Y,community,N,Y,7.54983443527075,0.6291528696058958,3,Y,NA,-1.8971199848858813
+2,"Anderson and Beck, 2007",44.355357,-100.367791,temperate,4,4,2,W,F-W,2,M-Sb-Fp-W,4,LAST,12,12,NT,herb_Y,community,N,Y,6.27162924074226,0.522635770061855,4,Y,NA,-2.4079456086518722
+3,"Anderson et al., 1998",46.82216,-100.918353,temperate,3,3,1.5,sW,F-sW,2,W-Su-sW,3,LAST,10,10,NT,herb_Y,community,N,Y,8,0.6666666666666666,2,Y,NA,-0.44496755108441066
+3,"Anderson et al., 1998",46.82216,-100.918353,temperate,3,3,1.5,sW,F-sW,2,W-Su-sW,3,LAST,10,10,tilled,herb_Y,community,N,Y,8,0.6666666666666666,2,Y,NA,-0.5993284253422904
+4,"Anderson et al., 2007",43.986856,-102.239657,temperate,4,4,2,W,F-W,2,Fp-Mi-W,3,LAST,8,8,tilled,herb_Y,community,N,Y,1.7320508075688772,0.10825317547305482,3,Y,NA,0.5978370007556204
+4,"Anderson et al., 2007",43.986856,-102.239657,temperate,4,4,2,W,F-W,2,M-Mi-W,3,LAST,8,8,tilled,herb_Y,community,N,Y,3.605551275463989,0.22534695471649932,3,Y,NA,0.6778797084291569
+4,"Anderson et al., 2007",43.986856,-102.239657,temperate,4,4,2,W,F-W,2,M-Su-sW-W,4,LAST,8,8,tilled,herb_Y,community,N,Y,3.1091263510296048,0.1884319000624003,3,Y,NA,0.28768207245178085
+4,"Anderson et al., 2007",43.986856,-102.239657,temperate,4,4,2,W,F-W,2,Mi-W,2,LAST,8,8,tilled,herb_Y,community,N,Y,4.242640687119285,0.2357022603955158,2,Y,NA,1.91959284073794
+4,"Anderson et al., 2007",43.986856,-102.239657,temperate,4,4,2,W,F-W,2,Saf-F-W-W,4,LAST,8,8,tilled,herb_Y,community,N,Y,3.605551275463989,0.22534695471649932,3,Y,NA,0.9102116857977729
+4,"Anderson et al., 2007",43.986856,-102.239657,temperate,4,4,2,W,F-W,2,Saf-Mi-W,3,LAST,8,8,tilled,herb_Y,community,N,Y,2.6457513110645907,0.16535945694153692,3,Y,NA,0.780158557549575
+4,"Anderson et al., 2007",43.986856,-102.239657,temperate,4,4,2,W,F-W,2,Su-F-W-W,4,LAST,8,8,tilled,herb_Y,community,N,Y,4,0.25,3,Y,NA,1.0467872208035236
+5,"Anderson, 2007",44.311964,-96.79755,temperate,4,4,2,Sb,Sb,1,sR-W-Sb-Sb,4,LAST,3.5,3.5,tilled,herb_Y,single species,N,N,6.164414002968976,0.5137011669140813,3,Y,NA,-1.2992829841302609
+5,"Anderson, 2007",44.311964,-96.79755,temperate,4,4,2,Sb,Sb,1,W-Sb-Sb-Sb,4,LAST,3.5,3.5,tilled,herb_Y,single species,N,N,6.531972647421808,0.5443310539518174,2,Y,NA,-0.45198512374305744
+6,"Ball and Miller, 1993",42.063589,-104.196577,temperate,4,4,2,M,M,1,Be-Be-M-M-M,5,RM-last,5,5,tilled,herb_Y,community,N,N,0.7071067811865476,0.05892556509887897,2,Y,NA,1.826850789039325
+6,"Ball and Miller, 1993",42.063589,-104.196577,temperate,4,4,2,M,M,1,Db-Db-Db-M-M,5,RM-last,5,5,tilled,herb_Y,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-0.2755396856260555
+7,"Benoit et al., 2003",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,B-Ca-Ca,3,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,2,Y,NA,-0.8842024173226546
+7,"Benoit et al., 2003",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,B-On-Ca,3,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,3,Y,NA,-0.5514966634969185
+7,"Benoit et al., 2003",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,Ca-B-Ca,2,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,2,Y,NA,-0.5514966634969185
+7,"Benoit et al., 2003",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,Ca-On-Ca,2,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,2,Y,NA,0.34958464971370795
+7,"Benoit et al., 2003",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,On-B-Ca,3,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,3,Y,NA,0.26152779432252515
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,F-W,2,Fl-W,2,RM-avg,pooled,5,NT,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,F-W,2,Fl-W,2,RM-avg,pooled,5,tilled,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,F-W,2,sR-W,2,RM-avg,pooled,5,NT,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,F-W,2,sR-W,2,RM-avg,pooled,5,tilled,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,W,1,Fl-W,2,RM-avg,pooled,5,NT,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,-0.6931471805599453
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,W,1,Fl-W,2,RM-avg,pooled,5,tilled,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,W,1,sR-W,2,RM-avg,pooled,5,NT,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,-0.6931471805599453
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,W,1,sR-W,2,RM-avg,pooled,5,tilled,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,F-W,2,L-W,2,RM-last,2,2,NT,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,F-W,2,L-W,2,RM-last,2,2,tilled,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0.8266785731844679
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,W,1,L-W,2,RM-last,2,2,NT,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,-1.2992829841302609
+8,"Blackshaw et al., 1994",49.693913,-112.841842,temperate,6,6,3,W,W,1,L-W,2,RM-last,2,2,tilled,herb_Y,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,0.09844007281325251
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,1,Fl-W,2,AVG,4.5,4.5,NT,herb_Y,community,N,N,NA,NA,2,Y,NA,-2.9755295662364714
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,1,Fl-W,2,AVG,4.5,4.5,tilled,herb_Y,community,N,N,NA,NA,2,Y,NA,-1.001448540214462
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,1,sR-W,2,AVG,4.5,4.5,NT,herb_Y,community,N,N,NA,NA,2,Y,NA,-1.8769172775683618
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,1,sR-W,2,AVG,4.5,4.5,tilled,herb_Y,community,N,N,NA,NA,2,Y,NA,-1.589235205116581
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,2,Fl-W,2,AVG,4.5,4.5,NT,herb_Y,community,N,Y,NA,NA,2,Y,NA,-0.1823215567939546
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,2,Fl-W,2,AVG,4.5,4.5,tilled,herb_Y,community,N,Y,NA,NA,2,Y,NA,-0.15415067982725836
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,2,sR-W,2,AVG,4.5,4.5,NT,herb_Y,community,N,Y,NA,NA,2,Y,NA,0.9162907318741551
+9,"Blackshaw et al., 2001",49.693913,-112.841842,temperate,6,6,3,W,W,2,sR-W,2,AVG,4.5,4.5,tilled,herb_Y,community,N,Y,NA,NA,2,Y,NA,-0.7419373447293773
+10,"Blackshaw et al., 2015",50.099254,-112.150692,temperate,4,16,8,sW,sW,1,Be-Db-Po-sW,4,RM-avg,pooled,12,tilled,herb_Y,community,N,N,NA,NA,4,Y,NA,-1.238803625038712
+10,"Blackshaw et al., 2015",50.099254,-112.150692,temperate,4,8,4,sW,sW,1,Db-Po-sW-Be-sW,5,RM-avg,pooled,12,tilled,herb_Y,community,N,N,NA,NA,4,Y,NA,-1.4451858789480825
+10,"Blackshaw et al., 2015",50.099254,-112.150692,temperate,4,24,12,sW,sW,1,Po-Db-sW,3,RM-avg,pooled,12,tilled,herb_Y,community,N,N,NA,NA,3,Y,NA,-0.9698462295694578
+11,"Blackshaw, 1994",49.693913,-112.841842,temperate,6,12,6,W,F-W,2,sR-W,2,RM-avg,pooled,6,NT,herb_Y,single species,N,N,8.082903768654761,0.6735753140545634,2,Y,NA,0.07393265200614872
+11,"Blackshaw, 1994",49.693913,-112.841842,temperate,6,12,6,W,F-W,2,sR-W,2,RM-avg,pooled,6,tilled,herb_Y,single species,N,N,8.082903768654761,0.6735753140545634,2,Y,NA,-0.9011548400616036
+11,"Blackshaw, 1994",49.693913,-112.841842,temperate,6,12,6,W,W,1,sR-W,2,RM-avg,pooled,6,NT,herb_Y,single species,N,N,8.082903768654761,0.6735753140545634,2,Y,NA,-2.985685068510179
+11,"Blackshaw, 1994",49.693913,-112.841842,temperate,6,12,6,W,W,1,sR-W,2,RM-avg,pooled,6,tilled,herb_Y,single species,N,N,8.082903768654761,0.6735753140545634,2,Y,NA,-3.828156757152815
+12,"Buhler et al., 1994",42.936668,-92.568509,temperate,3,3,1.5,M,M,1,Sb-M,2,RM-avg,pooled,10,NT,herb_Y,community,N,N,0,0,2,Y,NA,-1.0658615199545924
+12,"Buhler et al., 1994",42.936668,-92.568509,temperate,3,3,1.5,M,M,1,Sb-M,2,RM-avg,pooled,10,tilled,herb_Y,community,N,N,0,0,2,Y,NA,0.41925843024050014
+13,"Cathcart et al., 2006",51.045435,-113.396043,temperate,3,3,1.5,sR,sR,1,sR-sR-sW-sW-sR,4,LAST,4,4,tilled,herb_Y,community,N,N,0,0,2,Y,NA,-0.2825669717850105
+13,"Cathcart et al., 2006",51.045435,-113.396043,temperate,3,3,1.5,sR,sR,1,sR-sW-sR-sW-sR,2,LAST,4,4,tilled,herb_Y,community,N,N,0,0,2,Y,NA,-0.4367176516122688
+13,"Cathcart et al., 2006",51.045435,-113.396043,temperate,3,3,1.5,sR,sR,1,sR-sW-sW-sW-sR,4,LAST,4,4,tilled,herb_Y,community,N,N,0,0,2,Y,NA,-0.14903557916048782
+14,"Chikoye et al., 2008",7.379954,3.939541,sub/tropical,4,4,2,M,M,1,Cp/Sb-Cp/Sb-M,3,RM-last,6,6,tilled,herb_Y,community,N,N,NA,NA,3,Y,0,-0.005089069507471293
+14,"Chikoye et al., 2008",7.379954,3.939541,sub/tropical,4,4,2,M,M,1,Flm-Flm-M,3,RM-last,6,6,tilled,herb_Y,community,N,N,NA,NA,3,Y,-1.0704414117014134,-0.8288564324844808
+14,"Chikoye et al., 2008",7.379954,3.939541,sub/tropical,4,4,2,M,M,1,Sb-Sb-M,3,RM-last,6,6,tilled,herb_Y,community,N,N,NA,NA,2,Y,-0.1811793522151776,-0.1474052916877267
+14,"Chikoye et al., 2008",11.086974,7.720288,sub/tropical,4,4,2,M,M,1,Cp/Sb-Cp/Sb-M,3,RM-last,6,6,tilled,herb_Y,community,N,N,NA,NA,3,Y,-0.5822845877481356,-0.13176927763112334
+14,"Chikoye et al., 2008",11.086974,7.720288,sub/tropical,4,4,2,M,M,1,Flm-Flm-M,3,RM-last,6,6,tilled,herb_Y,community,N,N,NA,NA,3,Y,-0.9513820516854252,-0.6567795363890705
+14,"Chikoye et al., 2008",11.086974,7.720288,sub/tropical,4,4,2,M,M,1,Sb-Sb-M,3,RM-last,6,6,tilled,herb_Y,community,N,N,NA,NA,2,Y,-0.8178506590609026,-0.13647516866853598
+15,"Clay et al., 1998",44.311964,-96.79755,temperate,3,3,1.5,M,M,1,sW/A-A-M,3,RM-last,5,5,tilled,herb_Y,community,Y,N,9.899494936611665,0.5499719409228703,3,Y,NA,-0.1870571615397888
+15,"Clay et al., 1998",44.311964,-96.79755,temperate,3,3,1.5,M,M,1,sW/A-A-M,3,RM-last,5,5,tilled,herb_N,community,Y,N,9.899494936611665,0.5499719409228703,3,Y,NA,-2.3061581204665846
+16,"Covarelli and Tei, 1988",42.959514,12.345268,temperate,3,3,1.5,M,M,1,W-W-M,2,LAST,6,6,tilled,herb_N,community,N,N,NA,NA,2,Y,NA,-0.6289049118315917
+16,"Covarelli and Tei, 1988",42.959514,12.345268,temperate,3,3,1.5,M,M,1,W-W-M,3,LAST,6,6,tilled,herb_N,community,N,N,NA,NA,2,Y,NA,-0.32469353742860024
+17,"Daugovish et al., 1999",41.232456,-103.019734,temperate,4,4,2,W,F-W,2,Mi-F-W,3,RM-last,2,2,tilled,herb_Y,community,N,Y,4.242640687119285,0.35355339059327373,3,Y,NA,-2.955344212648703
+17,"Daugovish et al., 1999",41.232456,-103.019734,temperate,4,4,2,W,F-W,2,Su-F-W,3,RM-last,2,2,tilled,herb_Y,community,N,Y,5.656854249492381,0.47140452079103173,3,Y,NA,-2.0390534807745477
+18,"Davis et al., 2009",39.034491,-85.512745,temperate,5,5,2.5,Sb,Sb,1,M-Sb,2,RM-last,4,4,NT,herb_Y,single species,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-0.99714282850325
+19,"Demjanová et al., 2009",48.307092,18.093093,temperate,4,4,2,M,M,1,Fp-W-M,3,AVG,3.5,3.5,IC,herb_Y,community,N,N,6.557438524302,0.5464532103585,3,Y,NA,-0.4002837493661668
+19,"Demjanová et al., 2009",48.307092,18.093093,temperate,4,4,2,M,M,1,Fp-W-M,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,6.557438524302,0.5464532103585,3,Y,0.13069824693742987,NA
+19,"Demjanová et al., 2009",48.307092,18.093093,temperate,4,4,2,M,M,1,sB-Fp-W-M,4,AVG,3.5,3.5,IC,herb_Y,community,N,N,12.897028081435403,1.5476433697722483,4,Y,NA,-0.24281631691291466
+19,"Demjanová et al., 2009",48.307092,18.093093,temperate,4,4,2,M,M,1,sB-Fp-W-M,4,AVG,3.5,3.5,tilled,herb_Y,community,N,N,12.897028081435403,1.5476433697722483,4,Y,0.3888578801228889,NA
+19,"Demjanová et al., 2009",48.307092,18.093093,temperate,4,4,2,M,M,1,sB-M,2,AVG,3.5,3.5,IC,herb_Y,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-0.2972515234679316
+19,"Demjanová et al., 2009",48.307092,18.093093,temperate,4,4,2,M,M,1,sB-M,2,AVG,3.5,3.5,tilled,herb_Y,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,0.3955339036261187,NA
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-M,2,LAST,10,10,tilled,herb_Y,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,0.028791150384011425
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-M,2,LAST,10,10,tilled,herb_N,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-0.37157043782142263
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-M,2,LAST,10,10,tilled,herb_N,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-0.23708957563097932
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-W-M,3,LAST,10,10,tilled,herb_Y,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,0.137817725805208
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-W-M,3,LAST,10,10,tilled,herb_Y,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.024329347109171562
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-W-M,3,LAST,10,10,tilled,herb_N,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,-0.059833577769063215
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-W-M,3,LAST,10,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,-0.32841231964411255
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-W-M,3,LAST,10,10,tilled,herb_N,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,-0.5643958980777696
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,M,M,1,Sb-W-M,3,LAST,10,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,-0.27223001865750296
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,M-Sb,2,LAST,10,10,tilled,herb_Y,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,0.33302798011926005
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,M-Sb,2,LAST,10,10,tilled,herb_N,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,1.3687901514450733
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,M-Sb,2,LAST,10,10,tilled,herb_N,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,0.384972881390823
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-M-Sb,3,LAST,10,10,tilled,herb_Y,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,0.4420545555404565
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-M-Sb,3,LAST,10,10,tilled,herb_Y,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.3285661768444201
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-M-Sb,3,LAST,10,10,tilled,herb_N,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,1.0708202713384511
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-M-Sb,3,LAST,10,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,1.0499989435248656
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-M-Sb,3,LAST,10,10,tilled,herb_N,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,0.05766655894403276
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-M-Sb,3,LAST,10,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.3498324383642992
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-Sb,2,LAST,10,10,tilled,herb_Y,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,-0.4749849595959398
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-Sb,2,LAST,10,10,tilled,herb_N,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,1.3183903244506696
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,Sb,Sb,1,W-Sb,2,LAST,10,10,tilled,herb_N,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,0.1599091439894528
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,M-Sb-W,3,LAST,10,10,tilled,herb_Y,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,1.368489736486384
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,M-Sb-W,3,LAST,10,10,tilled,herb_Y,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,1.2550013577903476
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,M-Sb-W,3,LAST,10,10,tilled,herb_N,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,0.5348492682462406
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,M-Sb-W,3,LAST,10,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.514027940432655
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,M-Sb-W,3,LAST,10,10,tilled,herb_N,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,0.237353292064173
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,M-Sb-W,3,LAST,10,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.5295191714844396
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,Sb-W,2,LAST,10,10,tilled,herb_Y,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,0.45145022134998775
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,Sb-W,2,LAST,10,10,tilled,herb_N,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,0.782419321358459
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,3,1.5,W,W,1,Sb-W,2,LAST,10,10,tilled,herb_N,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,0.3395958771095932
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,18,9,M,M,1,Sb-M,2,RM-avg,pooled,10,tilled,herb_Y,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-0.7962544348358302
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,18,9,M,M,1,Sb-M,2,RM-avg,pooled,10,tilled,herb_N,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-0.32858506011549654
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,12,6,M,M,1,Sb-W-M,3,RM-avg,pooled,10,tilled,herb_Y,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,0.356140446860183
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,12,6,M,M,1,Sb-W-M,3,RM-avg,pooled,10,tilled,herb_N,community,N,N,4.58257569495584,0.57282196186948,3,Y,NA,-0.27537224842092234
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,18,9,Sb,Sb,1,M-Sb,2,RM-avg,pooled,10,tilled,herb_Y,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,0.9662004808121335
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,18,9,Sb,Sb,1,M-Sb,2,RM-avg,pooled,10,tilled,herb_N,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,0.042041413245605064
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,12,6,Sb,Sb,1,W-M-Sb,3,RM-avg,pooled,10,tilled,herb_Y,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.9929825490241527
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,12,6,Sb,Sb,1,W-M-Sb,3,RM-avg,pooled,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.14999658184021664
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,12,6,W,W,1,M-Sb-W,3,RM-avg,pooled,10,tilled,herb_Y,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,-1.8556192563558838
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,12,6,W,W,1,M-Sb-W,3,RM-avg,pooled,10,tilled,herb_N,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,0.18721741610995007
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,18,9,W,W,1,Sb-W,2,RM-avg,pooled,10,tilled,herb_Y,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,-0.9461743477550657
+20,"Doucet et al., 1999",42.229839,-82.842511,temperate,3,18,9,W,W,1,Sb-W,2,RM-avg,pooled,10,tilled,herb_N,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,0.3241939258556026
+21,"Eiszner et al., 1996",12.545447,-86.983274,sub/tropical,4,4,2,Sb,Sb,1,C-Sb,2,AVG,3.5,3.5,tilled,IC,community,N,N,NA,NA,2,Y,0.04669382288309265,0.05606389414659905
+22,"Filizadeh et al., 2007",36.811335,50.870237,temperate,4,4,2,Ri,Ri,1,Sb-Ri,2,AVG,1.5,1.5,tilled,herb_N,community,N,N,1.4142135623730951,0.11785113019775793,2,Y,-1.0379876668516748,-0.7855205006909605
+22,"Filizadeh et al., 2007",36.811335,50.870237,temperate,4,4,2,Ri,Ri,1,Sb-Ri,2,AVG,1.5,1.5,tilled,herb_N,community,N,N,4.242640687119285,0.35355339059327373,2,Y,-0.8671699345392049,-0.6737290947028438
+22,"Filizadeh et al., 2007",36.811335,50.870237,temperate,4,4,2,Ri,Ri,1,Sb-Ri,2,AVG,1.5,1.5,tilled,herb_N,community,N,N,5.656854249492381,0.47140452079103173,2,Y,-0.5784553374732347,-0.4467467670814684
+23,"Goplen et al., 2016",44.002881,-92.461605,temperate,4,4,2,M,M,1,A-A-M,3,RM-last,3,3,tilled,herb_Y,single species,Y,N,6.928203230275509,0.34641016151377546,2,Y,NA,-1.2992829841302609
+23,"Goplen et al., 2016",44.002881,-92.461605,temperate,4,4,2,M,M,1,M-Sb-M,3,RM-last,3,3,tilled,herb_Y,single species,N,N,0,0,2,Y,NA,0.31015492830383945
+23,"Goplen et al., 2016",44.002881,-92.461605,temperate,4,4,2,M,M,1,Sb-A-M,3,RM-last,3,3,tilled,herb_Y,single species,Y,N,0,0,3,Y,NA,-0.7884573603642702
+23,"Goplen et al., 2016",44.002881,-92.461605,temperate,4,4,2,M,M,1,Sb-M-M,3,RM-last,3,3,tilled,herb_Y,single species,N,N,0,0,2,Y,NA,-2.3978952727983707
+23,"Goplen et al., 2016",44.002881,-92.461605,temperate,4,4,2,M,M,1,Sb-W-M,3,RM-last,3,3,tilled,herb_Y,single species,N,N,0,0,3,Y,NA,-0.7884573603642702
+24,"Gulden et al., 2009",42.207291,-82.718544,temperate,4,4,2,M,Sb-M,2,Sb-W-M,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,0
+24,"Gulden et al., 2009",42.207291,-82.718544,temperate,4,4,2,Sb,M-Sb,2,W-M-Sb,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,0.26933293378358436
+24,"Gulden et al., 2009",42.379681,-81.84664,temperate,4,4,2,M,Sb-M,2,Sb-W-M,3,AVG,3.5,3.5,NT,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,-0.6204759902625863
+24,"Gulden et al., 2009",42.379681,-81.84664,temperate,4,4,2,M,Sb-M,2,Sb-W-M,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,-0.055673002426241756
+24,"Gulden et al., 2009",42.379681,-81.84664,temperate,4,4,2,Sb,M-Sb,2,W-M-Sb,3,AVG,3.5,3.5,NT,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,-0.456758402495715
+24,"Gulden et al., 2009",42.379681,-81.84664,temperate,4,4,2,Sb,M-Sb,2,W-M-Sb,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,-0.1251631429540059
+24,"Gulden et al., 2009",43.289192,-81.494523,temperate,4,4,2,M,Sb-M,2,Sb-W-M,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,0.636889377909851
+24,"Gulden et al., 2009",43.289192,-81.494523,temperate,4,4,2,Sb,M-Sb,2,W-M-Sb,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,-0.11869586091374319
+24,"Gulden et al., 2009",43.80372,-81.670344,temperate,4,4,2,M,Sb-M,2,Sb-W-M,3,AVG,3.5,3.5,NT,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,-0.9829821063728272
+24,"Gulden et al., 2009",43.80372,-81.670344,temperate,4,4,2,Sb,M-Sb,2,W-M-Sb,3,AVG,3.5,3.5,NT,herb_Y,community,N,N,1.5857864376269049,0.06964886980224207,1.5,N,NA,0
+25,"Harker et al., 2009",50.046952,-100.029067,temperate,4,4,2,sB,sB,1,sR-sB-Fp-sB,4,RM-last,5,5,NT,herb_Y,single species,N,N,0,0,3,Y,-1.0487580902812075,-0.3196198343008656
+26,"Harker et al., 2015",50.046952,-100.029067,temperate,4,4,2,sR,sR,1,Fp-sW-sR,3,RM-last,6,6,NT,herb_Y,community,N,N,0,0,3,Y,NA,-1.7525387560747736
+26,"Harker et al., 2015",50.046952,-100.029067,temperate,4,4,2,sR,sR,1,sW-sR-sR,3,RM-last,6,6,NT,herb_Y,community,N,N,0,0,2,Y,NA,-0.5764229062518039
+26,"Harker et al., 2015",50.046952,-100.029067,temperate,4,4,2,sR,sR,1,sW-sW-sR,3,RM-last,6,6,NT,herb_Y,community,N,N,0,0,2,Y,NA,-0.34181984294780837
+26,"Harker et al., 2015",52.519938,-113.78395,temperate,4,4,2,sR,sR,1,Fp-sW-sR,3,RM-last,6,6,NT,herb_Y,community,N,N,0,0,3,Y,NA,-0.980266031369127
+26,"Harker et al., 2015",52.519938,-113.78395,temperate,4,4,2,sR,sR,1,sW-sR-sR,3,RM-last,6,6,NT,herb_Y,community,N,N,0,0,2,Y,NA,-0.7969439742415888
+26,"Harker et al., 2015",52.519938,-113.78395,temperate,4,4,2,sR,sR,1,sW-sW-sR,3,RM-last,6,6,NT,herb_Y,community,N,N,0,0,2,Y,NA,-0.7369077607975294
+27,"Hunt et al., 2017",42.020898,-93.777058,temperate,4,20,10,M,Sb-M,2,Sb-O/A-A-M,4,RM-avg,pooled,13,tilled,herb_Y,community,Y,N,5.585786437626905,0.31964886980224205,2,N,1.2796365068191706,NA
+27,"Hunt et al., 2017",42.020898,-93.777058,temperate,4,28,14,M,Sb-M,2,Sb-O/RCl-M,3,RM-avg,pooled,13,tilled,herb_Y,community,Y,N,-0.41421356237309515,-0.034517796864424605,2,N,0.885932894488111,NA
+27,"Hunt et al., 2017",42.020898,-93.777058,temperate,4,20,10,Sb,M-Sb,2,O/A-A-M-Sb,4,RM-avg,pooled,13,tilled,herb_Y,community,Y,N,5.585786437626905,0.31964886980224205,2,N,0.32547749613286686,NA
+27,"Hunt et al., 2017",42.020898,-93.777058,temperate,4,24,12,Sb,M-Sb,2,O/RCl-M-Sb,3,RM-avg,pooled,13,tilled,herb_Y,community,Y,N,-0.41421356237309515,-0.034517796864424605,2,N,-0.05880856345483819,NA
+28,"Koocheki et al., 2009",36.262176,59.612759,temperate,3,3,1.5,W,W,1,Be-W,2,LAST,6,6,tilled,IC,community,N,N,9.899494936611665,0.8249579113843054,2,Y,NA,-0.15718558352241238
+28,"Koocheki et al., 2009",36.262176,59.612759,temperate,3,3,1.5,W,W,1,M-W,2,LAST,6,6,tilled,IC,community,N,N,11.313708498984761,0.9428090415820635,2,Y,NA,-0.5209779952300087
+29,"Legere et al., 2005",47.369377,-70.034259,temperate,4,8,4,sB,sB,1,RCl-sB/RCl,2,RM-avg,pooled,6,IC,herb_Y,community,Y,N,0,0,2,Y,NA,-1.3387988686761054
+30,"Leroux et al., 1996",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,B-Ca-Ca,3,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,2,Y,0.28111929253925755,NA
+30,"Leroux et al., 1996",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,B-On-Ca,3,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,3,Y,0.6698470294975902,NA
+30,"Leroux et al., 1996",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,Ca-B-Ca,2,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,2,Y,0.2657758441130367,NA
+30,"Leroux et al., 1996",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,Ca-On-Ca,2,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,2,Y,0.8280744368888566,NA
+30,"Leroux et al., 1996",45.10671,-73.527547,temperate,6,6,3,Ca,Ca,1,On-B-Ca,3,RM-last,3,3,tilled,herb_Y,community,N,N,0,0,3,Y,0.06540690931054943,NA
+31,"Liebman et al., 2014",42.020898,-93.777058,temperate,4,4,2,M,Sb-M,2,Sb-sTr/A-A-M,4,RM-last,4,4,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205,2,N,NA,0.10536051565782635
+31,"Liebman et al., 2014",42.020898,-93.777058,temperate,4,4,2,M,Sb-M,2,Sb-sTr/RCl-M,3,RM-last,4,4,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605,2,N,NA,0.20067069546215124
+31,"Liebman et al., 2014",42.020898,-93.777058,temperate,4,4,2,Sb,M-Sb,2,sTr/A-A-M-Sb,4,RM-last,4,4,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205,2,N,NA,0.030771658666753687
+31,"Liebman et al., 2014",42.020898,-93.777058,temperate,4,4,2,Sb,M-Sb,2,sTr/RCl-M-Sb,3,RM-last,4,4,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605,2,N,NA,-0.24686007793152578
+32,"Manley et al., 2001",37.584096,-75.782421,temperate,4,4,2,Sb,Sb,1,M-To-Sb,2,RM-last,1,1,tilled,herb_N,community,N,N,0,0,2,Y,NA,-0.0953101798043249
+32,"Manley et al., 2001",37.584096,-75.782421,temperate,4,4,2,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_N,community,N,N,0,0,2,Y,NA,0.05376642415566013
+32,"Manley et al., 2001",37.584096,-75.782421,temperate,4,4,2,M,M,1,To-Sb-M,3,RM-last,4,4,tilled,herb_N,community,N,N,0,0,3,Y,NA,0.26998249535237995
+32,"Manley et al., 2001",37.584096,-75.782421,temperate,4,4,2,Sb,Sb,1,M-To-Sb,3,RM-last,4,4,tilled,herb_N,community,N,N,0,0,3,Y,NA,-0.4576508612787345
+32,"Manley et al., 2001",37.584096,-75.782421,temperate,4,4,2,Sb,Sb,1,Sb-M,2,RM-last,4,4,tilled,herb_N,community,N,N,0,0,2,Y,NA,-0.08195710727366588
+33,"Marenco et al., 1999",-2.578711,-44.206322,sub/tropical,4,4,2,Ri,Ri,1,Cp/Ri,1,LAST,1,1,tilled,herb_N,community,N,N,0,0,2,Y,0.0761660054208973,-1.2948805804835752
+33,"Marenco et al., 1999",-2.578711,-44.206322,sub/tropical,4,4,2,Ri,Ri,1,Hb/Ri,1,LAST,1,1,tilled,herb_N,community,N,N,0,0,2,Y,0.022048571283922586,-1.6515555244223077
+33,"Marenco et al., 1999",-2.578711,-44.206322,sub/tropical,4,4,2,Ri,Ri,1,Vb/Ri,1,LAST,1,1,tilled,herb_N,community,N,N,0,0,2,Y,0.32628899184461196,-3.1381860075948613
+34,"Martin and Felton, 1993",-31.147432,150.983345,sub/tropical,4,4,2,sW,sW,1,sW-So-sW,2,RM-last,4,4,NT,herb_Y,single species,N,N,1.4142135623730951,0.07856742013183862,2,Y,NA,-3.970291913552122
+34,"Martin and Felton, 1993",-31.147432,150.983345,sub/tropical,4,4,2,sW,sW,1,sW-So-sW,2,RM-last,4,4,NT,herb_N,single species,N,N,1.4142135623730951,0.07856742013183862,2,Y,NA,-2.6753370036959074
+34,"Martin and Felton, 1993",-31.147432,150.983345,sub/tropical,4,4,2,sW,sW,1,sW-So-sW,2,RM-last,4,4,tilled,herb_Y,single species,N,N,1.4142135623730951,0.07856742013183862,2,Y,NA,0.1823215567939546
+34,"Martin and Felton, 1993",-31.147432,150.983345,sub/tropical,4,4,2,sW,sW,1,sW-So-sW,2,RM-last,4,4,tilled,herb_N,single species,N,N,1.4142135623730951,0.07856742013183862,2,Y,NA,-1.3862943611198906
+35,"Melander et al., 2008",55.312867,11.394974,temperate,4,4,2,W,W,1,W-sB-Fp-W,3,RM-last,2,2,NT,herb_Y,single species,N,N,5.715476066494082,0.4762896722078402,3,Y,NA,-0.8979415932059586
+35,"Melander et al., 2008",55.312867,11.394974,temperate,4,4,2,W,W,1,B-R-W-W,3,RM-last,5,5,NT,herb_Y,single species,N,N,0.816496580927726,0.06804138174397717,3,Y,NA,0
+35,"Melander et al., 2008",55.312867,11.394974,temperate,4,4,2,W,W,1,B-R-W-W,3,RM-last,5,5,tilled,herb_Y,single species,N,N,0.816496580927726,0.06804138174397717,3,Y,NA,-0.6691939395374525
+35,"Melander et al., 2008",55.312867,11.394974,temperate,4,4,2,W,W,1,R-B-R-W,3,RM-last,5,5,tilled,herb_Y,single species,N,N,0.816496580927726,0.06804138174397717,3,Y,NA,-0.3468709438421114
+35,"Melander et al., 2008",55.312867,11.394974,temperate,4,4,2,W,W,1,W-sB-Fp-W,3,RM-last,5,5,tilled,herb_Y,single species,N,N,5.715476066494082,0.4762896722078402,3,Y,NA,1.3294187127278885
+35,"Melander et al., 2008",55.312867,11.394974,temperate,4,4,2,W,W,1,W-Sb-Fp-W,3,RM-last,5,5,tilled,herb_Y,single species,N,N,5.715476066494082,0.4762896722078402,3,Y,NA,-2.068012845856213
+35,"Melander et al., 2008",55.312867,11.394974,temperate,4,4,2,W,W,1,W-sB-R-W,3,RM-last,5,5,tilled,herb_Y,single species,N,N,5.715476066494082,0.4762896722078402,3,Y,NA,-0.34536118403845895
+36,"Mock et al., 2012",40.415151,-86.940704,temperate,6,6,3,Sb,Sb,1,M-Sb,2,LAST,3,3,NT,herb_Y,community,N,N,0,0,2,Y,NA,-1.0575106129825578
+36,"Mock et al., 2012",40.415151,-86.940704,temperate,6,6,3,Sb,Sb,1,M-Sb,2,LAST,3,3,NT,herb_N,community,N,N,0,0,2,Y,NA,-1.6314168191528755
+37,"Mohammaddoust Chamanad et al., 2009",55.83576,37.560004,temperate,3,3,1.5,sB,sB,1,RCl-RCl-Fl-Fl-F-F-Ry-Ry-Po-Po-sB-sB,12,AVG,93.5,93.5,tilled,herb_N,community,Y,N,9.118966803073446,0.5845491540431696,6,Y,NA,-0.9512480289941518
+38,"Porter et al., 2003",44.231538,-95.26451,temperate,3,3,1.5,M,Sb-M,2,Sb-O/A-A-M,4,LAST,6,6,tilled,herb_Y,community,Y,N,7.234178138070235,0.46175605136618525,2,N,NA,-1.21102185626335
+38,"Porter et al., 2003",44.231538,-95.26451,temperate,3,3,1.5,M,Sb-M,2,Sb-O/A-A-M,4,LAST,6,6,tilled,herb_N,community,Y,N,7.234178138070235,0.46175605136618525,2,N,NA,-0.9062492487510571
+38,"Porter et al., 2003",44.231538,-95.26451,temperate,3,3,1.5,Sb,M-Sb,2,O/A-A-M-Sb,4,LAST,6,6,tilled,herb_Y,community,Y,N,7.234178138070235,0.46175605136618525,2,N,NA,-0.6182458723868276
+38,"Porter et al., 2003",44.231538,-95.26451,temperate,3,3,1.5,Sb,M-Sb,2,O/A-A-M-Sb,4,LAST,6,6,tilled,herb_N,community,Y,N,7.234178138070235,0.46175605136618525,2,N,NA,-0.5115246800684886
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,temperate,3,3,1.5,W,W,1,Fp-W,2,RM-last,3,3,tilled,herb_Y,single species,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-1.0116009116784799
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,temperate,3,3,1.5,W,W,1,R-W,2,RM-last,3,3,tilled,herb_Y,single species,N,N,0,0,2,Y,NA,0.24116205681688804
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,temperate,3,3,1.5,W,W,1,Su-W,2,RM-last,3,3,tilled,herb_Y,single species,N,N,8.48528137423857,0.7071067811865475,2,Y,NA,0.0870113769896297
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,temperate,3,3,1.5,W,W,1,Fp-W,2,RM-last,3,3,tilled,herb_Y,single species,N,N,1.4142135623730951,0.11785113019775793,2,Y,NA,-2.6741486494265287
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,temperate,3,3,1.5,W,W,1,R-W,2,RM-last,3,3,tilled,herb_Y,single species,N,N,0,0,2,Y,NA,-1.9810014688665833
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,temperate,3,3,1.5,W,W,1,Su-W,2,RM-last,3,3,tilled,herb_Y,single species,N,N,8.48528137423857,0.7071067811865475,2,Y,NA,-4.060443010546419
+40,"Santin-Montanya et al., 2016",40.535421,-3.330587,temperate,4,4,2,B,B,1,F-Fp-B,3,LAST,12,12,IC,herb_Y,community,N,N,1.4142135623730951,0.05892556509887897,2,Y,NA,-2.35929762869693
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-M,2,LAST,7,10,NT,herb_N,single species,N,N,0,0,2,Y,NA,-1.3055330044754323
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-M,2,LAST,7,10,tilled,herb_N,single species,N,N,0,0,2,Y,NA,-1.0304496372371472
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-W-M,3,LAST,7,10,NT,herb_N,single species,N,N,9.899494936611665,0.8249579113843054,3,Y,NA,-2.7269186854065928
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-W-M,3,LAST,7,10,tilled,herb_N,single species,N,N,9.899494936611665,0.8249579113843054,3,Y,NA,-1.477463748258184
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-M,2,LAST,10,10,NT,herb_N,single species,N,N,0,0,2,Y,NA,-0.6711144655600626
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-M,2,LAST,10,10,tilled,herb_N,single species,N,N,0,0,2,Y,NA,-1.1564670813662838
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-W-M,3,LAST,10,10,NT,herb_N,single species,N,N,9.899494936611665,0.8249579113843054,3,Y,NA,-2.8391094045813436
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,4,2,M,M,1,Sb-W-M,3,LAST,10,10,tilled,herb_N,single species,N,N,9.899494936611665,0.8249579113843054,3,Y,NA,-2.0933444468488274
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,28,14,M,M,1,Sb-M,2,RM-avg,pooled,12,IC,herb_N,single species,N,N,0,0,2,Y,NA,-1.0537327123027502
+41,"Schrieber, 1992",40.428001,-86.90336,temperate,4,24,12,M,M,1,Sb-W-M,3,RM-avg,pooled,12,IC,herb_N,single species,N,N,9.899494936611665,0.8249579113843054,3,Y,NA,-2.215356763148675
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,sB,sB,1,Be-sB,2,AVG,4,4,tilled,herb_Y,community,N,N,0,0,2,Y,-0.8754687373538999,0.4747392339915697
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,sB,sB,1,Fp-Be-sB,3,AVG,4,4,tilled,herb_Y,community,N,N,0,0,3,Y,-0.780158557549575,0.42634269312971956
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,sB,sB,1,Fp-W-Be-sB,4,AVG,4,4,tilled,herb_Y,community,N,N,4.898979485566356,0.40824829046386296,4,Y,-0.4700036292457356,-0.07898841131863044
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,sB,sB,1,sR-Be-sB,3,AVG,4,4,tilled,herb_Y,community,N,N,0,0,3,Y,0,0.8984103065963065
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,sB,sB,1,W-Be-sB,3,AVG,4,4,tilled,herb_Y,community,N,N,6,0.5,3,Y,-0.8754687373538999,0.5505330733611034
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,sB,sB,1,W-Fp-sB,3,AVG,4,4,tilled,herb_Y,community,N,N,6,0.5,3,Y,0.18924199963852834,0.8123356978250637
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,W,Fp-W,2,Be-Fp-W,3,AVG,4,4,tilled,herb_Y,community,N,N,-2.4852813742385695,-0.20710678118654746,1.5,N,-1.1474024528375417,-0.7614151516889482
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,W,Fp-W,2,Fp-W-Be-sB,4,AVG,4,4,tilled,herb_Y,community,N,N,-3.5863018886722138,-0.2988584907226845,2,N,-1.7452394535931621,-1.1243206453783166
+42,"Seibutis et al., 2006",54.8876,23.835541,temperate,4,4,2,W,Fp-W,2,Fp-W-sB,3,AVG,4,4,tilled,herb_Y,community,N,N,-2.4852813742385695,-0.20710678118654746,1.5,N,-0.2929871246814741,-0.32737667113672786
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,C-W,2,RM-last,2,2,NT,herb_N,community,N,Y,0,0,2,Y,-0.616186139423817,-2.116075674859616
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,C-W,2,RM-last,2,2,tilled,herb_N,community,N,Y,0,0,2,Y,-0.16251892949777494,0.5671064596645803
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,Mb-W,2,RM-last,2,2,NT,herb_N,community,N,Y,1.4142135623730951,0.23570226039551587,2,Y,0.15984870094189604,-1.02746346952609
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,Mb-W,2,RM-last,2,2,tilled,herb_N,community,N,Y,1.4142135623730951,0.23570226039551587,2,Y,-0.2876820724517809,0.07598590697792205
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,Ri-W,2,RM-last,2,2,NT,herb_N,community,N,Y,1.4142135623730951,0.23570226039551587,2,Y,-1.0986122886681098,-1.5585943594528262
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,Ri-W,2,RM-last,2,2,tilled,herb_N,community,N,Y,1.4142135623730951,0.23570226039551587,2,Y,0.04879016416943205,-0.11122563511022437
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,So-W,2,RM-last,2,2,NT,herb_N,community,N,Y,1.4142135623730951,0.23570226039551587,2,Y,-1.875141078167106,-2.583098675967214
+43,"Shahzad et al., 2016",30.15393,71.524782,sub/tropical,3,3,1.5,W,F-W,2,So-W,2,RM-last,2,2,tilled,herb_N,community,N,Y,1.4142135623730951,0.23570226039551587,2,Y,-0.5978370007556204,-0.5020919437972361
+44,"Simic et al., 2016",44.870012,20.328897,temperate,4,4,2,M,M,1,W-M,2,RM-last,3,3,tilled,herb_Y,community,N,N,7.0710678118654755,0.5892556509887896,2,Y,-0.9527590724125802,NA
+44,"Simic et al., 2016",44.870012,20.328897,temperate,4,4,2,M,M,1,W-M,2,RM-last,3,3,tilled,herb_N,community,N,N,7.0710678118654755,0.5892556509887896,2,Y,0.017605836560476304,NA
+44,"Simic et al., 2016",44.870012,20.328897,temperate,4,4,2,M,M,1,Sb-W-M,3,RM-last,4,4,tilled,herb_Y,community,N,N,5,0.4166666666666667,3,Y,-0.3473306387820129,NA
+44,"Simic et al., 2016",44.870012,20.328897,temperate,4,4,2,M,M,1,Sb-W-M,3,RM-last,4,4,tilled,herb_N,community,N,N,5,0.4166666666666667,3,Y,0.5576540919885884,NA
+45,"Singer et al., 2000",42.642558,-77.147832,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_Y,community,Y,N,0,0,2,Y,NA,0.9555114450274363
+45,"Singer et al., 2000",42.642558,-77.147832,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_N,community,Y,N,0,0,2,Y,NA,0.732539582270606
+45,"Singer et al., 2000",42.642558,-77.147832,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_Y,community,Y,N,7,0.5833333333333334,4,Y,NA,2.2925347571405443
+45,"Singer et al., 2000",42.642558,-77.147832,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_N,community,Y,N,7,0.5833333333333334,4,Y,NA,0.9812755819635677
+45,"Singer et al., 2000",42.765168,-76.870039,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_Y,community,Y,N,0,0,2,Y,NA,-1.0986122886681096
+45,"Singer et al., 2000",42.765168,-76.870039,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_N,community,Y,N,0,0,2,Y,NA,-2.001480000210124
+45,"Singer et al., 2000",42.765168,-76.870039,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_Y,community,Y,N,7,0.5833333333333334,4,Y,NA,0.8472978603872037
+45,"Singer et al., 2000",42.765168,-76.870039,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_N,community,Y,N,7,0.5833333333333334,4,Y,NA,-1.4792906177938183
+45,"Singer et al., 2000",42.76525,-76.548483,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_Y,community,Y,N,0,0,2,Y,NA,-0.5389965007326869
+45,"Singer et al., 2000",42.76525,-76.548483,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_N,community,Y,N,0,0,2,Y,NA,0.9893038800026984
+45,"Singer et al., 2000",42.76525,-76.548483,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_Y,community,Y,N,7,0.5833333333333334,4,Y,NA,-1.2321436812926323
+45,"Singer et al., 2000",42.76525,-76.548483,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_N,community,Y,N,7,0.5833333333333334,4,Y,NA,0.6123062820764376
+45,"Singer et al., 2000",43.154907,-78.203586,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_Y,community,Y,N,0,0,2,Y,NA,-0.060624621816434736
+45,"Singer et al., 2000",43.154907,-78.203586,temperate,2,2,1,M,M,1,Sb-M,2,RM-last,4,4,tilled,herb_N,community,Y,N,0,0,2,Y,NA,-0.28625247964218653
+45,"Singer et al., 2000",43.154907,-78.203586,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_Y,community,Y,N,7,0.5833333333333334,4,Y,NA,1.3099213823353166
+45,"Singer et al., 2000",43.154907,-78.203586,temperate,2,2,1,M,M,1,Sb-W/RCl-M,3,RM-last,4,4,tilled,herb_N,community,Y,N,7,0.5833333333333334,4,Y,NA,0.9640585056058947
+46,"Soon and Darwent, 1998",55.202226,-119.438397,temperate,4,4,2,sB,sB,1,sR-sB-sB,3,LAST,6,6,tilled,herb_N,single species,N,N,0,0,2,Y,NA,0.2436220826577505
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,temperate,3,9,4.5,M,M,1,O/Flm-Flm-M,3,RM-avg,pooled,43,IC,herb_Y,community,Y,N,9.899494936611665,0.5499719409228703,3,Y,NA,0.18688890594547214
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,temperate,3,9,4.5,M,M,1,Sb-M,2,RM-avg,pooled,43,IC,herb_Y,community,N,N,0,0,2,Y,NA,-0.22914971981510251
+48,"Stevenson et al., 1997",48.828344,-72.540739,temperate,4,8,4,sB,sB,1,Flm-Flm-sB/Flm,3,RM-avg,pooled,8,tilled,herb_Y,community,Y,N,0,0,2,Y,1.0616657255157138,0.2835808686482503
+49,"Taa et al., 2004",7.106247,39.200667,sub/tropical,3,9,4.5,W,W,1,Fa-W-W,3,RM-avg,pooled,10,IC,herb_Y,single species,N,N,0,0,2,Y,-0.16975100410602634,-1.3064584264740227
+49,"Taa et al., 2004",8.019806,39.160252,sub/tropical,3,6,3,W,W,1,Fa-W-W,3,RM-avg,pooled,10,IC,herb_Y,single species,N,N,0,0,2,Y,-0.8891849980178211,-1.4426210519619231
+49,"Taa et al., 2004",8.019806,39.160252,sub/tropical,3,3,1.5,W,W,1,Fa-W-W,3,RM-avg,pooled,10,NT,herb_Y,single species,N,N,0,0,2,Y,-1.1340142157190256,NA
+49,"Taa et al., 2004",8.019806,39.160252,sub/tropical,3,3,1.5,W,W,1,Fa-W-W,3,RM-avg,pooled,10,tilled,herb_Y,single species,N,N,0,0,2,Y,0.13353139262452257,NA
+50,"VanGessel et al., 2004",39.179746,-76.182421,temperate,4,4,2,M,M,1,Sb-M,2,LAST,6,6,IC,herb_Y,community,N,N,7.0710678118654755,0.3928371006591931,2,Y,NA,-0.09844007281325252
+50,"VanGessel et al., 2004",39.179746,-76.182421,temperate,4,4,2,M,M,1,Sb-W-M,3,LAST,6,6,IC,herb_Y,community,N,N,6.557438524302,0.5464532103585,3,Y,NA,-0.40546510810816444
+50,"VanGessel et al., 2004",39.179746,-76.182421,temperate,4,4,2,M,M,1,W/Sb-M,2,LAST,6,6,IC,herb_Y,community,N,N,8.717797887081348,0.726483157256779,3,Y,NA,-0.16989903679539747
+51,"White et al., 2004",38.879959,-99.327116,temperate,4,24,12,W,F-W,2,So-F-W,3,RM-avg,pooled,27,tilled,herb_Y,single species,N,Y,1.4142135623730951,0.07856742013183862,3,Y,NA,-0.9019091337754871
+51,"White et al., 2004",38.879959,-99.327116,temperate,4,24,12,W,F-W,2,So-Su-F-W,4,RM-avg,pooled,27,tilled,herb_Y,single species,N,Y,3,0.1875,4,Y,NA,-0.9269151699951811
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,temperate,4,4,2,Tr,Tr,1,Po-Tr-Fp-Tr,4,LAST,3,8,tilled,herb_N,community,N,N,8.082903768654761,0.6735753140545634,3,Y,-0.21040452553678,-0.15415067982725822
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,temperate,4,4,2,Tr,Tr,1,Po-Tr-Fp-Tr,4,LAST,8,8,tilled,herb_N,community,N,N,8.082903768654761,0.6735753140545634,3,Y,-0.1764564373415564,-0.3881970304760841
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,temperate,4,4,2,sTr,sTr,1,Po-sTr-Fp-sTr,4,LAST,13,13,tilled,herb_N,community,N,N,6,0.6666666666666666,3,Y,-0.3145335139453596,-0.8419680676238559
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,temperate,4,4,2,W,W,1,Po-W-Fp-W,4,LAST,18,18,tilled,herb_N,community,N,N,8.082903768654761,0.6735753140545634,3,Y,-0.22512179132631555,-0.21188035903549898
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,temperate,4,4,2,sW,sW,1,Fp-sW-Fp-sW,2,LAST,23,28,tilled,herb_N,community,N,N,6,0.6666666666666666,2,Y,-0.3107197405187983,-0.48876590570125833
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,temperate,4,4,2,sW,sW,1,Fp-sW-Fp-sW,2,LAST,28,28,tilled,herb_N,community,N,N,6,0.6666666666666666,2,Y,0.01801850550267843,0.10794783922277722
+53,"Wozniak, 2003",51.295943,23.619321,temperate,4,4,2,sB,sB,1,Fp-sB,2,AVG,3.5,3.5,tilled,herb_Y,community,N,N,0,0,2,Y,0.2714967480307637,-0.5596157879354228
+53,"Wozniak, 2003",51.295943,23.619321,temperate,4,4,2,sB,sB,1,Fp-sB,2,AVG,3.5,3.5,tilled,herb_N,community,N,N,0,0,2,Y,-0.4071057975656242,-0.5897688261061101
+53,"Wozniak, 2003",51.295943,23.619321,temperate,4,4,2,sB,sB,1,Po-sB,2,AVG,3.5,3.5,tilled,herb_Y,community,N,N,0,0,2,Y,0,-0.05505977718302743
+53,"Wozniak, 2003",51.295943,23.619321,temperate,4,4,2,sB,sB,1,Po-sB,2,AVG,3.5,3.5,tilled,herb_N,community,N,N,0,0,2,Y,-0.21905356606268464,-0.08252102368800347
+54,"Young et al., 1996",46.726104,-117.153548,temperate,4,4,2,W,W,1,sB-Fp-W,3,AVG,3.5,3.5,tilled,herb_Y,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,-0.036813973122716316
+54,"Young et al., 1996",46.726104,-117.153548,temperate,4,4,2,W,W,1,sB-Fp-W,3,RM-last,6,6,IC,herb_Y,community,N,N,7.54983443527075,0.6291528696058958,3,Y,NA,-1.9075912847531766

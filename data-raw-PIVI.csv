@@ -1,0 +1,918 @@
+study_no,reference,lat,long,data_type,study_age,reps,checkcrop,cropseq_simp,rotlength_simp,speciesno_simp,bio_simp,den_simp,cropseq_div,rotlength_div,speciesno_div,bio_div,den_div,sys_tillage,sys_weedmgmt,weedmsmt_unit,peren_divYN,fallow_simpYN,PISD_diff,PICV_diff
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,1,4,O,O,1,1,137,469,Fl-Ry-Db-Tr-Po-O,6,6,27.7,206,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,2,4,O,O,1,1,207.4,691,Fl-Ry-Db-Tr-Po-O,6,6,25.7,149,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,3,4,O,O,1,1,193.6,919,Fl-Ry-Db-Tr-Po-O,6,6,27.9,150,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,4,4,O,O,1,1,125.7,545,Fl-Ry-Db-Tr-Po-O,6,6,63.7,287,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,5,4,O,O,1,1,166.3,493,Fl-Ry-Db-Tr-Po-O,6,6,63.3,250,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,6,4,O,O,1,1,178.9,746,Fl-Ry-Db-Tr-Po-O,6,6,23.5,158,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,1,4,O,O,1,1,144.5,734,Fl-Ry-Db-Tr-Po-O,6,6,23.1,211,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,2,4,O,O,1,1,151,1150,Fl-Ry-Db-Tr-Po-O,6,6,17.9,134,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,3,4,O,O,1,1,163.9,807,Fl-Ry-Db-Tr-Po-O,6,6,15.9,79,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,4,4,O,O,1,1,119.5,653,Fl-Ry-Db-Tr-Po-O,6,6,25.4,186,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,5,4,O,O,1,1,138,503,Fl-Ry-Db-Tr-Po-O,6,6,76.2,251,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,6,4,O,O,1,1,136.2,705,Fl-Ry-Db-Tr-Po-O,6,6,38.4,461,tilled,none,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,1,4,O,O,1,1,146.9,424,Fl-Ry-Db-Tr-Po-O,6,6,7.2,96,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,2,4,O,O,1,1,75.7,254,Fl-Ry-Db-Tr-Po-O,6,6,5,64,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,3,4,O,O,1,1,103.5,214,Fl-Ry-Db-Tr-Po-O,6,6,2.6,33,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,4,4,O,O,1,1,66.1,126,Fl-Ry-Db-Tr-Po-O,6,6,38.7,95,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,5,4,O,O,1,1,53.7,153,Fl-Ry-Db-Tr-Po-O,6,6,11.8,99,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,6,4,O,O,1,1,151,292,Fl-Ry-Db-Tr-Po-O,6,6,11.4,95,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,1,4,O,O,1,1,151.4,537,Fl-Ry-Db-Tr-Po-O,6,6,3.5,63,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,2,4,O,O,1,1,59.9,206,Fl-Ry-Db-Tr-Po-O,6,6,3.6,37,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,3,4,O,O,1,1,98.3,219,Fl-Ry-Db-Tr-Po-O,6,6,2,19,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,4,4,O,O,1,1,103.5,99,Fl-Ry-Db-Tr-Po-O,6,6,37.9,135,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,5,4,O,O,1,1,58.4,114,Fl-Ry-Db-Tr-Po-O,6,6,6.6,68,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+1,"Adamiak and Adamiak, 2004",53.596166,19.851759,RM,6,4,O,O,1,1,114.2,207,Fl-Ry-Db-Tr-Po-O,6,6,4.8,59,tilled,herbicides,community,N,N,6.047037842337906,0.49701680895927997
+2,"Anderson and Beck, 2007",44.355357,-100.367791,LAST,12,4,W,F-W,2,1,NA,100,Ch-W,2,2,NA,182,NT,herbicides,community,N,Y,11.313708498984761,0.9428090415820635
+2,"Anderson and Beck, 2007",44.355357,-100.367791,LAST,12,4,W,F-W,2,1,NA,100,M-F-W,3,3,NA,16,NT,herbicides,community,N,Y,2.8284271247461903,0.15713484026367724
+2,"Anderson and Beck, 2007",44.355357,-100.367791,LAST,12,4,W,F-W,2,1,NA,100,M-Ch-W,3,3,NA,53,NT,herbicides,community,N,Y,8,0.6666666666666666
+2,"Anderson and Beck, 2007",44.355357,-100.367791,LAST,12,4,W,F-W,2,1,NA,100,M-Fp-W,3,3,NA,15,NT,herbicides,community,N,Y,7.54983443527075,0.6291528696058958
+2,"Anderson and Beck, 2007",44.355357,-100.367791,LAST,12,4,W,F-W,2,1,NA,100,M-Sb-Fp-W,4,4,NA,9,NT,herbicides,community,N,Y,6.27162924074226,0.522635770061855
+3,"Anderson et al., 1998",46.82216,-100.918353,LAST,10,3,sW,F-sW,2,1,NA,59,W-Su-sW,3,2,NA,37,tilled,herbicides,community,N,Y,8,0.6666666666666666
+3,"Anderson et al., 1998",46.82216,-100.918353,LAST,10,3,sW,F-sW,2,1,NA,63,W-Su-sW,3,2,NA,30,tilled,herbicides,community,N,Y,8,0.6666666666666666
+3,"Anderson et al., 1998",46.82216,-100.918353,LAST,10,3,sW,F-sW,2,1,NA,284,W-Su-sW,3,2,NA,182,NT,herbicides,community,N,Y,8,0.6666666666666666
+4,"Anderson et al., 2007",43.986856,-102.239657,LAST,8,4,W,F-W,2,1,NA,33,Mi-W,2,2,NA,225,tilled,herbicides,community,N,Y,4.242640687119285,0.2357022603955158
+4,"Anderson et al., 2007",43.986856,-102.239657,LAST,8,4,W,F-W,2,1,NA,33,M-Mi-W,3,3,NA,65,tilled,herbicides,community,N,Y,3.605551275463989,0.22534695471649932
+4,"Anderson et al., 2007",43.986856,-102.239657,LAST,8,4,W,F-W,2,1,NA,33,Saf-Mi-W,3,3,NA,72,tilled,herbicides,community,N,Y,2.6457513110645907,0.16535945694153692
+4,"Anderson et al., 2007",43.986856,-102.239657,LAST,8,4,W,F-W,2,1,NA,33,Fp-Mi-W,3,3,NA,60,tilled,herbicides,community,N,Y,1.7320508075688772,0.10825317547305482
+4,"Anderson et al., 2007",43.986856,-102.239657,LAST,8,4,W,F-W,2,1,NA,33,Saf-F-W-W,4,3,NA,82,tilled,herbicides,community,N,Y,3.605551275463989,0.22534695471649932
+4,"Anderson et al., 2007",43.986856,-102.239657,LAST,8,4,W,F-W,2,1,NA,33,Su-F-W-W,4,3,NA,94,tilled,herbicides,community,N,Y,4,0.25
+4,"Anderson et al., 2007",43.986856,-102.239657,LAST,8,4,W,F-W,2,1,NA,33,M-Su-sW-W,4,3,NA,44,tilled,herbicides,community,N,Y,3.1091263510296048,0.1884319000624003
+5,"Anderson, 2007",44.311964,-96.79755,LAST,3.5,4,Sb,Sb,1,1,NA,2.2,W-Sb-Sb-Sb,4,2,NA,1.4,tilled,herbicides,single species,N,N,6.531972647421808,0.5443310539518174
+5,"Anderson, 2007",44.311964,-96.79755,LAST,3.5,4,Sb,Sb,1,1,NA,2.2,sR-W-Sb-Sb,4,3,NA,0.6,tilled,herbicides,single species,N,N,6.164414002968976,0.5137011669140813
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,3,4,M,M,1,1,NA,14,Be-Be-M-M-M,5,2,NA,24,tilled,herbicides,community,N,N,0.7071067811865476,0.05892556509887897
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,4,4,M,M,1,1,NA,19,Be-Be-M-M-M,5,2,NA,38,tilled,herbicides,community,N,N,0.7071067811865476,0.05892556509887897
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,5,4,M,M,1,1,NA,21,Be-Be-M-M-M,5,2,NA,50,tilled,herbicides,community,N,N,0.7071067811865476,0.05892556509887897
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,3,4,M,M,1,1,NA,14,Be-Be-M-M-M,5,2,NA,117,tilled,herbicides,community,N,N,0.7071067811865476,0.05892556509887897
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,4,4,M,M,1,1,NA,19,Be-Be-M-M-M,5,2,NA,152,tilled,herbicides,community,N,N,0.7071067811865476,0.05892556509887897
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,5,4,M,M,1,1,NA,21,Be-Be-M-M-M,5,2,NA,211,tilled,herbicides,community,N,N,0.7071067811865476,0.05892556509887897
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,4,4,M,M,1,1,NA,111,Db-Db-Db-M-M,5,2,NA,67,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,5,4,M,M,1,1,NA,191,Db-Db-Db-M-M,5,2,NA,47,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,4,4,M,M,1,1,NA,111,Db-Db-Db-M-M,5,2,NA,433,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+6,"Ball and Miller, 1993",42.063589,-104.196577,RM,5,4,M,M,1,1,NA,191,Db-Db-Db-M-M,5,2,NA,243,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,1,6,Ca,Ca,1,1,NA,177,Ca-On-Ca,2,2,NA,177,tilled,herbicides,community,N,N,0,0
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,1,6,Ca,Ca,1,1,NA,177,Ca-B-Ca,2,2,NA,177,tilled,herbicides,community,N,N,0,0
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,1,6,Ca,Ca,1,1,NA,177,On-B-Ca,3,3,NA,39,tilled,herbicides,community,N,N,0,0
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,NA,18.4,Ca-On-Ca,2,2,NA,26.1,tilled,herbicides,community,N,N,0,0
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,NA,18.4,B-Ca-Ca,3,2,NA,7.6,tilled,herbicides,community,N,N,0,0
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,NA,18.4,Ca-B-Ca,2,2,NA,10.6,tilled,herbicides,community,N,N,0,0
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,NA,18.4,B-On-Ca,3,3,NA,10.6,tilled,herbicides,community,N,N,0,0
+7,"Benoit et al., 2003",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,NA,18.4,On-B-Ca,3,3,NA,23.9,tilled,herbicides,community,N,N,0,0
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,9,L-W,2,2,NA,282,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,6,L-W,2,2,NA,22,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,19,Fl-W,2,2,NA,6,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,14,L-W,2,2,NA,233,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,23,L-W,2,2,NA,10,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,12,Fl-W,2,2,NA,7,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,6,L-W,2,2,NA,13,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,11,L-W,2,2,NA,3,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,41,Fl-W,2,2,NA,3,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,1,Fl-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,2,Fl-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,9,sR-W,2,2,NA,12,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,6,sR-W,2,2,NA,53,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,19,sR-W,2,2,NA,4,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,14,sR-W,2,2,NA,4,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,23,sR-W,2,2,NA,73,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,12,sR-W,2,2,NA,3,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,6,sR-W,2,2,NA,2,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,11,sR-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,41,sR-W,2,2,NA,3,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,1,sR-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,2,sR-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,15,L-W,2,2,NA,282,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,7,L-W,2,2,NA,22,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,10,Fl-W,2,2,NA,6,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,11,L-W,2,2,NA,233,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,7,L-W,2,2,NA,10,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,10,Fl-W,2,2,NA,7,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,1,Fl-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,7,L-W,2,2,NA,13,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,3,L-W,2,2,NA,3,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,5,Fl-W,2,2,NA,3,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,1,Fl-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,1,Fl-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,15,sR-W,2,2,NA,12,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,7,sR-W,2,2,NA,53,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,10,sR-W,2,2,NA,4,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,11,sR-W,2,2,NA,4,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,7,sR-W,2,2,NA,73,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,10,sR-W,2,2,NA,3,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,1,sR-W,2,2,NA,1,tilled,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,7,sR-W,2,2,NA,2,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,3,sR-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,5,sR-W,2,2,NA,3,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,1,sR-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+8,"Blackshaw et al., 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,1,sR-W,2,2,NA,1,NT,herbicides,community,N,N,9.899494936611665,0.8249579113843054
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,1,1,NA,98,sR-W,2,2,NA,15,NT,herbicides,community,N,N,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,1,1,NA,98,Fl-W,2,2,NA,5,NT,herbicides,community,N,N,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,1,1,NA,18,sR-W,2,2,NA,5,tilled,herbicides,community,N,N,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,1,1,NA,18,Fl-W,2,2,NA,11,tilled,herbicides,community,N,N,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,1,1,NA,31,sR-W,2,2,NA,5,tilled,herbicides,community,N,N,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,1,1,NA,31,Fl-W,2,2,NA,7,tilled,herbicides,community,N,N,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,2,1,NA,6,sR-W,2,2,NA,15,NT,herbicides,community,N,Y,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,2,1,NA,6,Fl-W,2,2,NA,5,NT,herbicides,community,N,Y,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,2,1,NA,13,sR-W,2,2,NA,5,tilled,herbicides,community,N,Y,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,2,1,NA,13,Fl-W,2,2,NA,11,tilled,herbicides,community,N,Y,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,2,1,NA,8,sR-W,2,2,NA,5,tilled,herbicides,community,N,Y,NA,NA
+9,"Blackshaw et al., 2001",49.693913,-112.841842,AVG,4.5,6,W,W,2,1,NA,8,Fl-W,2,2,NA,7,tilled,herbicides,community,N,Y,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,1,4,sW,sW,1,1,NA,17,Po-Db-sW,3,3,NA,30,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,1,4,sW,sW,1,1,NA,17,Po-Db-sW,3,3,NA,30,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,1,4,sW,sW,1,1,NA,17,Be-Db-Po-sW,4,4,NA,26,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,1,4,sW,sW,1,1,NA,17,Be-Db-Po-sW,4,4,NA,38,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,1,4,sW,sW,1,1,NA,17,Db-Po-sW-Be-sW,5,4,NA,37,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,2,4,sW,sW,1,1,NA,29,Po-Db-sW,3,3,NA,32,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,2,4,sW,sW,1,1,NA,29,Po-Db-sW,3,3,NA,28,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,2,4,sW,sW,1,1,NA,29,Be-Db-Po-sW,4,4,NA,24,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,2,4,sW,sW,1,1,NA,29,Be-Db-Po-sW,4,4,NA,26,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,2,4,sW,sW,1,1,NA,29,Db-Po-sW-Be-sW,5,4,NA,21,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,3,4,sW,sW,1,1,NA,94,Po-Db-sW,3,3,NA,17,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,3,4,sW,sW,1,1,NA,94,Po-Db-sW,3,3,NA,25,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,3,4,sW,sW,1,1,NA,94,Be-Db-Po-sW,4,4,NA,11,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,3,4,sW,sW,1,1,NA,94,Be-Db-Po-sW,4,4,NA,15,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,3,4,sW,sW,1,1,NA,94,Db-Po-sW-Be-sW,5,4,NA,16,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,4,4,sW,sW,1,1,NA,155,Po-Db-sW,3,3,NA,4,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,4,4,sW,sW,1,1,NA,155,Po-Db-sW,3,3,NA,9,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,4,4,sW,sW,1,1,NA,155,Be-Db-Po-sW,4,4,NA,4,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,4,4,sW,sW,1,1,NA,155,Be-Db-Po-sW,4,4,NA,8,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,4,4,sW,sW,1,1,NA,155,Db-Po-sW-Be-sW,5,4,NA,7,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,5,4,sW,sW,1,1,NA,77,Po-Db-sW,3,3,NA,5,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,5,4,sW,sW,1,1,NA,77,Po-Db-sW,3,3,NA,20,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,5,4,sW,sW,1,1,NA,77,Be-Db-Po-sW,4,4,NA,6,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,5,4,sW,sW,1,1,NA,77,Be-Db-Po-sW,4,4,NA,9,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,5,4,sW,sW,1,1,NA,77,Db-Po-sW-Be-sW,5,4,NA,18,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,6,4,sW,sW,1,1,NA,27,Po-Db-sW,3,3,NA,15,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,6,4,sW,sW,1,1,NA,27,Po-Db-sW,3,3,NA,24,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,6,4,sW,sW,1,1,NA,27,Be-Db-Po-sW,4,4,NA,17,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,6,4,sW,sW,1,1,NA,27,Be-Db-Po-sW,4,4,NA,33,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,6,4,sW,sW,1,1,NA,27,Db-Po-sW-Be-sW,5,4,NA,29,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,7,4,sW,sW,1,1,NA,5,Po-Db-sW,3,3,NA,6,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,7,4,sW,sW,1,1,NA,5,Po-Db-sW,3,3,NA,11,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,7,4,sW,sW,1,1,NA,5,Be-Db-Po-sW,4,4,NA,3,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,7,4,sW,sW,1,1,NA,5,Be-Db-Po-sW,4,4,NA,11,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,7,4,sW,sW,1,1,NA,5,Db-Po-sW-Be-sW,5,4,NA,11,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,8,4,sW,sW,1,1,NA,14,Po-Db-sW,3,3,NA,4,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,8,4,sW,sW,1,1,NA,14,Po-Db-sW,3,3,NA,5,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,8,4,sW,sW,1,1,NA,14,Be-Db-Po-sW,4,4,NA,2,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,8,4,sW,sW,1,1,NA,14,Be-Db-Po-sW,4,4,NA,3,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,8,4,sW,sW,1,1,NA,14,Db-Po-sW-Be-sW,5,4,NA,3,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,9,4,sW,sW,1,1,NA,10,Po-Db-sW,3,3,NA,5,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,9,4,sW,sW,1,1,NA,10,Po-Db-sW,3,3,NA,13,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,9,4,sW,sW,1,1,NA,10,Be-Db-Po-sW,4,4,NA,8,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,9,4,sW,sW,1,1,NA,10,Be-Db-Po-sW,4,4,NA,15,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,9,4,sW,sW,1,1,NA,10,Db-Po-sW-Be-sW,5,4,NA,14,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,10,4,sW,sW,1,1,NA,14,Po-Db-sW,3,3,NA,4,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,10,4,sW,sW,1,1,NA,14,Po-Db-sW,3,3,NA,5,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,10,4,sW,sW,1,1,NA,14,Be-Db-Po-sW,4,4,NA,2,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,10,4,sW,sW,1,1,NA,14,Be-Db-Po-sW,4,4,NA,3,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,10,4,sW,sW,1,1,NA,14,Db-Po-sW-Be-sW,5,4,NA,3,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,11,4,sW,sW,1,1,NA,24,Po-Db-sW,3,3,NA,2,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,11,4,sW,sW,1,1,NA,24,Po-Db-sW,3,3,NA,21,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,11,4,sW,sW,1,1,NA,24,Be-Db-Po-sW,4,4,NA,19,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,11,4,sW,sW,1,1,NA,24,Be-Db-Po-sW,4,4,NA,23,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,11,4,sW,sW,1,1,NA,24,Db-Po-sW-Be-sW,5,4,NA,17,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,12,4,sW,sW,1,1,NA,51,Po-Db-sW,3,3,NA,1,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,12,4,sW,sW,1,1,NA,51,Po-Db-sW,3,3,NA,3,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,12,4,sW,sW,1,1,NA,51,Be-Db-Po-sW,4,4,NA,2,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,12,4,sW,sW,1,1,NA,51,Be-Db-Po-sW,4,4,NA,2,tilled,herbicides,community,N,N,NA,NA
+10,"Blackshaw et al., 2015",50.099254,-112.150692,RM,12,4,sW,sW,1,1,NA,51,Db-Po-sW-Be-sW,5,4,NA,4,tilled,herbicides,community,N,N,NA,NA
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,34,sR-W,2,2,NA,28,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,63,sR-W,2,2,NA,21,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,182,sR-W,2,2,NA,44,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,200,sR-W,2,2,NA,59,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,829,sR-W,2,2,NA,22,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,6,6,W,W,1,1,NA,561,sR-W,2,2,NA,10,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,1,6,W,W,1,1,NA,17,sR-W,2,2,NA,19,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,2,6,W,W,1,1,NA,63,sR-W,2,2,NA,15,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,3,6,W,W,1,1,NA,299,sR-W,2,2,NA,26,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,4,6,W,W,1,1,NA,648,sR-W,2,2,NA,96,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,5,6,W,W,1,1,NA,1109,sR-W,2,2,NA,39,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,6,6,W,W,1,1,NA,841,sR-W,2,2,NA,61,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,21,sR-W,2,2,NA,28,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,12,sR-W,2,2,NA,21,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,15,sR-W,2,2,NA,44,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,23,sR-W,2,2,NA,59,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,46,sR-W,2,2,NA,22,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,6,6,W,F-W,2,1,NA,29,sR-W,2,2,NA,10,tilled,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,1,6,W,F-W,2,1,NA,17,sR-W,2,2,NA,19,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,2,6,W,F-W,2,1,NA,16,sR-W,2,2,NA,15,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,3,6,W,F-W,2,1,NA,28,sR-W,2,2,NA,26,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,4,6,W,F-W,2,1,NA,52,sR-W,2,2,NA,96,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,5,6,W,F-W,2,1,NA,36,sR-W,2,2,NA,39,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+11,"Blackshaw, 1994",49.693913,-112.841842,RM,6,6,W,F-W,2,1,NA,57,sR-W,2,2,NA,61,NT,herbicides,single species,N,N,8.082903768654761,0.6735753140545634
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,87,Sb-M,2,2,NA,384,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,110,Sb-M,2,2,NA,428,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,88,Sb-M,2,2,NA,122,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,110,Sb-M,2,2,NA,1682,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,167,Sb-M,2,2,NA,226,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,540,Sb-M,2,2,NA,152,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,167,Sb-M,2,2,NA,251,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,540,Sb-M,2,2,NA,108,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,56,Sb-M,2,2,NA,173,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,214,Sb-M,2,2,NA,100,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,56,Sb-M,2,2,NA,116,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,214,Sb-M,2,2,NA,158,tilled,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,344,Sb-M,2,2,NA,360,NT,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,826,Sb-M,2,2,NA,273,NT,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,1,3,M,M,1,1,NA,344,Sb-M,2,2,NA,186,NT,herbicides,community,N,N,0,0
+12,"Buhler et al., 1994",42.936668,-92.568509,RM,10,3,M,M,1,1,NA,826,Sb-M,2,2,NA,296,NT,herbicides,community,N,N,0,0
+13,"Cathcart et al., 2006",51.045435,-113.396043,LAST,4,3,sR,sR,1,1,NA,260,sR-sW-sR-sW-sR,2,2,NA,168,tilled,herbicides,community,N,N,0,0
+13,"Cathcart et al., 2006",51.045435,-113.396043,LAST,4,3,sR,sR,1,1,NA,260,sR-sR-sW-sW-sR,4,2,NA,196,tilled,herbicides,community,N,N,0,0
+13,"Cathcart et al., 2006",51.045435,-113.396043,LAST,4,3,sR,sR,1,1,NA,260,sR-sW-sW-sW-sR,4,2,NA,224,tilled,herbicides,community,N,N,0,0
+14,"Chikoye et al., 2008",7.379954,3.939541,RM,3,4,M,M,1,1,162,183,Cp/Sb-Cp/Sb-M,3,3,150,181,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",7.379954,3.939541,RM,3,4,M,M,1,1,162,183,Sb-Sb-M,3,2,154,182,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",7.379954,3.939541,RM,3,4,M,M,1,1,162,183,Flm-Flm-M,3,3,72,120,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",7.379954,3.939541,RM,6,4,M,M,1,1,175,197,Cp/Sb-Cp/Sb-M,3,3,175,196,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",7.379954,3.939541,RM,6,4,M,M,1,1,175,197,Sb-Sb-M,3,2,146,170,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",7.379954,3.939541,RM,6,4,M,M,1,1,175,197,Flm-Flm-M,3,3,60,86,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",11.086974,7.720288,RM,3,4,M,M,1,1,124,214,Cp/Sb-Cp/Sb-M,3,3,90,149,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",11.086974,7.720288,RM,3,4,M,M,1,1,124,214,Sb-Sb-M,3,2,112,147,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",11.086974,7.720288,RM,3,4,M,M,1,1,124,214,Flm-Flm-M,3,3,100,166,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",11.086974,7.720288,RM,6,4,M,M,1,1,145,243,Cp/Sb-Cp/Sb-M,3,3,81,213,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",11.086974,7.720288,RM,6,4,M,M,1,1,145,243,Sb-Sb-M,3,2,64,212,tilled,herbicides,community,N,N,NA,NA
+14,"Chikoye et al., 2008",11.086974,7.720288,RM,6,4,M,M,1,1,145,243,Flm-Flm-M,3,3,56,126,tilled,herbicides,community,N,N,NA,NA
+15,"Clay et al., 1998",44.311964,-96.79755,RM,4,3,M,M,1,1,NA,3521,sW/A-A-M,3,3,NA,333,tilled,none,community,Y,N,9.899494936611665,0.5499719409228703
+15,"Clay et al., 1998",44.311964,-96.79755,RM,4,3,M,M,1,1,NA,239,sW/A-A-M,3,3,NA,238,tilled,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+15,"Clay et al., 1998",44.311964,-96.79755,RM,4,3,M,M,1,1,NA,4,sW/A-A-M,3,3,NA,49,tilled,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+15,"Clay et al., 1998",44.311964,-96.79755,RM,5,3,M,M,1,1,NA,4486,sW/A-A-M,3,3,NA,447,tilled,none,community,Y,N,9.899494936611665,0.5499719409228703
+15,"Clay et al., 1998",44.311964,-96.79755,RM,5,3,M,M,1,1,NA,371,sW/A-A-M,3,3,NA,250,tilled,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+15,"Clay et al., 1998",44.311964,-96.79755,RM,5,3,M,M,1,1,NA,10,sW/A-A-M,3,3,NA,66,tilled,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+16,"Covarelli and Tei, 1988",42.959514,12.345268,LAST,6,3,M,M,1,1,NA,422,W-W-M,2,2,NA,161,tilled,none,community,N,N,NA,NA
+16,"Covarelli and Tei, 1988",42.959514,12.345268,LAST,6,3,M,M,1,1,NA,422,W-W-M,2,2,NA,289,tilled,none,community,N,N,NA,NA
+16,"Covarelli and Tei, 1988",42.959514,12.345268,LAST,6,3,M,M,1,1,NA,422,W-W-M,3,2,NA,377,tilled,none,community,N,N,NA,NA
+16,"Covarelli and Tei, 1988",42.959514,12.345268,LAST,6,3,M,M,1,1,NA,422,W-W-M,3,2,NA,233,tilled,none,community,N,N,NA,NA
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,1,4,W,F-W,2,1,NA,18.4,Su-F-W,3,3,NA,0,tilled,herbicides,community,N,Y,5.656854249492381,0.47140452079103173
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,2,4,W,F-W,2,1,NA,3.66,Su-F-W,3,3,NA,0.4,tilled,herbicides,community,N,Y,5.656854249492381,0.47140452079103173
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,1,4,W,F-W,2,1,NA,18.4,Mi-F-W,3,3,NA,0,tilled,herbicides,community,N,Y,4.242640687119285,0.35355339059327373
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,2,4,W,F-W,2,1,NA,3.66,Mi-F-W,3,3,NA,0.16,tilled,herbicides,community,N,Y,4.242640687119285,0.35355339059327373
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,1,4,W,F-W,2,1,NA,37.3,Su-F-W,3,3,NA,0,tilled,herbicides,community,N,Y,5.656854249492381,0.47140452079103173
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,2,4,W,F-W,2,1,NA,5.56,Su-F-W,3,3,NA,0.4,tilled,herbicides,community,N,Y,5.656854249492381,0.47140452079103173
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,1,4,W,F-W,2,1,NA,37.3,Mi-F-W,3,3,NA,0,tilled,herbicides,community,N,Y,4.242640687119285,0.35355339059327373
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,2,4,W,F-W,2,1,NA,5.56,Mi-F-W,3,3,NA,0.16,tilled,herbicides,community,N,Y,4.242640687119285,0.35355339059327373
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,1,4,W,F-W,2,1,NA,0.04,Su-F-W,3,3,NA,0,tilled,herbicides,community,N,Y,5.656854249492381,0.47140452079103173
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,2,4,W,F-W,2,1,NA,0,Su-F-W,3,3,NA,0.4,tilled,herbicides,community,N,Y,5.656854249492381,0.47140452079103173
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,1,4,W,F-W,2,1,NA,0.04,Mi-F-W,3,3,NA,0,tilled,herbicides,community,N,Y,4.242640687119285,0.35355339059327373
+17,"Daugovish et al., 1999",41.232456,-103.019734,RM,2,4,W,F-W,2,1,NA,0,Mi-F-W,3,3,NA,0.16,tilled,herbicides,community,N,Y,4.242640687119285,0.35355339059327373
+18,"Davis et al., 2009",39.034491,-85.512745,RM,3,5,Sb,Sb,1,1,NA,0.2,M-Sb,2,2,NA,0.1,NT,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+18,"Davis et al., 2009",39.034491,-85.512745,RM,3,5,Sb,Sb,1,1,NA,2.3,M-Sb,2,2,NA,1.6,NT,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+18,"Davis et al., 2009",39.034491,-85.512745,RM,4,5,Sb,Sb,1,1,NA,2.9,M-Sb,2,2,NA,1.4,NT,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+18,"Davis et al., 2009",39.034491,-85.512745,RM,4,5,Sb,Sb,1,1,NA,28,M-Sb,2,2,NA,10,NT,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,NA,38.5,sB-M,2,2,NA,28.6,IC,herb/mech,community,N,N,1.4142135623730951,0.11785113019775793
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,NA,38.5,Fp-W-M,3,3,NA,25.8,IC,herb/mech,community,N,N,6.557438524302,0.5464532103585
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,NA,38.5,sB-Fp-W-M,4,4,NA,30.2,IC,herb/mech,community,N,N,12.897028081435403,1.5476433697722483
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,46.9,NA,sB-M,2,2,76.7,NA,tilled,herb/mech,community,N,N,1.4142135623730951,0.11785113019775793
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,46.9,NA,Fp-W-M,3,3,89.2,NA,tilled,herb/mech,community,N,N,6.557438524302,0.5464532103585
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,46.9,NA,sB-Fp-W-M,4,4,113.3,NA,tilled,herb/mech,community,N,N,12.897028081435403,1.5476433697722483
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,153.4,NA,sB-M,2,2,203.4,NA,tilled,herb/mech,community,N,N,1.4142135623730951,0.11785113019775793
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,153.4,NA,Fp-W-M,3,3,128.1,NA,tilled,herb/mech,community,N,N,6.557438524302,0.5464532103585
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,153.4,NA,sB-Fp-W-M,4,4,163.1,NA,tilled,herb/mech,community,N,N,12.897028081435403,1.5476433697722483
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,113.4,NA,sB-M,2,2,185.8,NA,tilled,herb/mech,community,N,N,1.4142135623730951,0.11785113019775793
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,113.4,NA,Fp-W-M,3,3,140.2,NA,tilled,herb/mech,community,N,N,6.557438524302,0.5464532103585
+19,"Demjanová et al., 2009",48.307092,18.093093,AVG,3.5,4,M,M,1,1,113.4,NA,sB-Fp-W-M,4,4,186.4,NA,tilled,herb/mech,community,N,N,12.897028081435403,1.5476433697722483
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,W,W,1,1,NA,209.8,Sb-W,2,2,NA,181.9,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,W,W,1,1,NA,728.1,Sb-W,2,2,NA,401.7,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,W,W,1,1,NA,831.4,Sb-W,2,2,NA,318.4,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,W,W,1,1,NA,449.7,Sb-W,2,2,NA,146.6,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,W,W,1,1,NA,26,Sb-W,2,2,NA,7.3,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,W,W,1,1,NA,525.6,Sb-W,2,2,NA,371.7,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,W,W,1,1,NA,260.5,Sb-W,2,2,NA,46,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,W,W,1,1,NA,727.5,Sb-W,2,2,NA,569,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,W,W,1,1,NA,209.8,M-Sb-W,3,3,NA,265.8,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,W,W,1,1,NA,728.1,M-Sb-W,3,3,NA,173.2,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,W,W,1,1,NA,831.4,M-Sb-W,3,3,NA,285.8,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,W,W,1,1,NA,449.7,M-Sb-W,3,3,NA,62.6,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,W,W,1,1,NA,26,M-Sb-W,3,3,NA,2.7,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,W,W,1,1,NA,525.6,M-Sb-W,3,3,NA,404.4,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,W,W,1,1,NA,260.5,M-Sb-W,3,3,NA,4,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,W,W,1,1,NA,727.5,M-Sb-W,3,3,NA,354.4,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,M,M,1,1,NA,19.7,Sb-M,2,2,NA,6.2,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,M,M,1,1,NA,33.8,Sb-M,2,2,NA,41.2,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,M,M,1,1,NA,75,Sb-M,2,2,NA,8.5,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,M,M,1,1,NA,129.7,Sb-M,2,2,NA,81.6,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,M,M,1,1,NA,40.3,Sb-M,2,2,NA,25.5,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,M,M,1,1,NA,96.2,Sb-M,2,2,NA,47,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,M,M,1,1,NA,167,Sb-M,2,2,NA,110.3,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,M,M,1,1,NA,32,Sb-M,2,2,NA,18.5,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,M,M,1,1,NA,19.7,Sb-W-M,3,3,NA,27.1,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,M,M,1,1,NA,33.8,Sb-W-M,3,3,NA,43.6,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,M,M,1,1,NA,75,Sb-W-M,3,3,NA,34.3,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,M,M,1,1,NA,129.7,Sb-W-M,3,3,NA,65.6,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,M,M,1,1,NA,40.3,Sb-W-M,3,3,NA,46.4,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,M,M,1,1,NA,96.2,Sb-W-M,3,3,NA,202.2,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,M,M,1,1,NA,167,Sb-W-M,3,3,NA,95.5,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,M,M,1,1,NA,32,Sb-W-M,3,3,NA,96.1,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,Sb,Sb,1,1,NA,13.5,M-Sb,2,2,NA,51.4,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,Sb,Sb,1,1,NA,8.8,M-Sb,2,2,NA,33.3,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,Sb,Sb,1,1,NA,1,M-Sb,2,2,NA,1,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,Sb,Sb,1,1,NA,5.4,M-Sb,2,2,NA,61.8,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,Sb,Sb,1,1,NA,41.1,M-Sb,2,2,NA,97.5,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,Sb,Sb,1,1,NA,3.3,M-Sb,2,2,NA,20.5,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,Sb,Sb,1,1,NA,26.8,M-Sb,2,2,NA,21.9,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,Sb,Sb,1,1,NA,15.9,M-Sb,2,2,NA,38,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,Sb,Sb,1,1,NA,13.5,W-M-Sb,3,3,NA,61.2,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,Sb,Sb,1,1,NA,8.8,W-M-Sb,3,3,NA,11.2,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,Sb,Sb,1,1,NA,1,W-M-Sb,3,3,NA,1,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,Sb,Sb,1,1,NA,5.4,W-M-Sb,3,3,NA,88.8,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,Sb,Sb,1,1,NA,41.1,W-M-Sb,3,3,NA,102.4,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,Sb,Sb,1,1,NA,3.3,W-M-Sb,3,3,NA,16.8,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,Sb,Sb,1,1,NA,26.8,W-M-Sb,3,3,NA,80.7,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,Sb,Sb,1,1,NA,15.9,W-M-Sb,3,3,NA,22.1,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,W,W,1,1,NA,604.8,Sb-W,2,2,NA,590.3,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,W,W,1,1,NA,495.8,Sb-W,2,2,NA,380.6,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,W,W,1,1,NA,588.4,Sb-W,2,2,NA,645.9,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,W,W,1,1,NA,479.3,Sb-W,2,2,NA,594.5,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,W,W,1,1,NA,110.9,Sb-W,2,2,NA,226.3,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,W,W,1,1,NA,837.1,Sb-W,2,2,NA,1010.2,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,W,W,1,1,NA,497.8,Sb-W,2,2,NA,872.2,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,W,W,1,1,NA,604.7,Sb-W,2,2,NA,720,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,W,W,1,1,NA,604.8,M-Sb-W,3,3,NA,863.9,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,W,W,1,1,NA,495.8,M-Sb-W,3,3,NA,423.7,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,W,W,1,1,NA,588.4,M-Sb-W,3,3,NA,545.2,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,W,W,1,1,NA,479.3,M-Sb-W,3,3,NA,1372.2,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,W,W,1,1,NA,110.9,M-Sb-W,3,3,NA,110.9,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,W,W,1,1,NA,837.1,M-Sb-W,3,3,NA,1211.6,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,W,W,1,1,NA,497.8,M-Sb-W,3,3,NA,238.6,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,W,W,1,1,NA,604.7,M-Sb-W,3,3,NA,1843.2,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,M,M,1,1,NA,459.4,Sb-M,2,2,NA,322.8,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,M,M,1,1,NA,226.2,Sb-M,2,2,NA,170.3,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,M,M,1,1,NA,998.4,Sb-M,2,2,NA,657.1,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,M,M,1,1,NA,386.6,Sb-M,2,2,NA,318.3,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,M,M,1,1,NA,240.3,Sb-M,2,2,NA,283.8,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,M,M,1,1,NA,869.8,Sb-M,2,2,NA,565.7,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,M,M,1,1,NA,810.4,Sb-M,2,2,NA,400.7,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,M,M,1,1,NA,1458.6,Sb-M,2,2,NA,986.9,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,M,M,1,1,NA,459.4,Sb-W-M,3,3,NA,428.3,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,M,M,1,1,NA,226.2,Sb-W-M,3,3,NA,250.9,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,M,M,1,1,NA,998.4,Sb-W-M,3,3,NA,563.9,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,M,M,1,1,NA,386.6,Sb-W-M,3,3,NA,206.7,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,M,M,1,1,NA,240.3,Sb-W-M,3,3,NA,283.8,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,M,M,1,1,NA,869.8,Sb-W-M,3,3,NA,1161.6,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,M,M,1,1,NA,810.4,Sb-W-M,3,3,NA,326.3,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,M,M,1,1,NA,1458.6,Sb-W-M,3,3,NA,763.4,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,Sb,Sb,1,1,NA,111,M-Sb,2,2,NA,154.2,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,Sb,Sb,1,1,NA,310.1,M-Sb,2,2,NA,365.7,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,Sb,Sb,1,1,NA,348.9,M-Sb,2,2,NA,281.1,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,Sb,Sb,1,1,NA,387.7,M-Sb,2,2,NA,498.7,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,Sb,Sb,1,1,NA,321.6,M-Sb,2,2,NA,346.3,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,Sb,Sb,1,1,NA,329.5,M-Sb,2,2,NA,434.3,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,Sb,Sb,1,1,NA,590.3,M-Sb,2,2,NA,571.8,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,Sb,Sb,1,1,NA,191.2,M-Sb,2,2,NA,172.7,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,3,3,Sb,Sb,1,1,NA,111,W-M-Sb,3,3,NA,487.2,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,4,3,Sb,Sb,1,1,NA,310.1,W-M-Sb,3,3,NA,143.6,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,5,3,Sb,Sb,1,1,NA,348.9,W-M-Sb,3,3,NA,755.9,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,6,3,Sb,Sb,1,1,NA,387.7,W-M-Sb,3,3,NA,862.6,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,7,3,Sb,Sb,1,1,NA,321.6,W-M-Sb,3,3,NA,340.1,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,8,3,Sb,Sb,1,1,NA,329.5,W-M-Sb,3,3,NA,348,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,9,3,Sb,Sb,1,1,NA,590.3,W-M-Sb,3,3,NA,904.8,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,RM,10,3,Sb,Sb,1,1,NA,191.2,W-M-Sb,3,3,NA,203.5,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,875.5,Sb-M,2,2,NA,643.5,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,875.5,Sb-M,2,2,NA,737.9,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,875.5,Sb-W-M,3,3,NA,497.9,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,875.5,Sb-W-M,3,3,NA,615.7,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,875.5,Sb-W-M,3,3,NA,718,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,470,M-Sb,2,2,NA,643.5,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,470,M-Sb,2,2,NA,737.9,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,470,W-Sb,2,2,NA,449.6,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,470,W-Sb,2,2,NA,653.4,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,470,W-M-Sb,3,3,NA,497.9,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,470,W-M-Sb,3,3,NA,615.7,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,470,W-M-Sb,3,3,NA,718,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,392.7,Sb-W,2,2,NA,449.6,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,392.7,Sb-W,2,2,NA,653.4,tilled,none,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,392.7,M-Sb-W,3,3,NA,497.9,tilled,none,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,392.7,M-Sb-W,3,3,NA,615.7,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,392.7,M-Sb-W,3,3,NA,718,tilled,none,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,363.3,Sb-M,2,2,NA,171.1,tilled,mechanical,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,363.3,Sb-M,2,2,NA,330,tilled,mechanical,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,363.3,Sb-W-M,3,3,NA,342.2,tilled,mechanical,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,363.3,Sb-W-M,3,3,NA,304.2,tilled,mechanical,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,363.3,Sb-W-M,3,3,NA,219,tilled,mechanical,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,113.1,M-Sb,2,2,NA,718,tilled,mechanical,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,113.1,M-Sb,2,2,NA,171.1,tilled,mechanical,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,113.1,W-Sb,2,2,NA,315.7,tilled,mechanical,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,113.1,W-Sb,2,2,NA,529.7,tilled,mechanical,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,113.1,W-M-Sb,3,3,NA,330,tilled,mechanical,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,113.1,W-M-Sb,3,3,NA,342.2,tilled,mechanical,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,113.1,W-M-Sb,3,3,NA,304.2,tilled,mechanical,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,193.3,Sb-W,2,2,NA,315.7,tilled,mechanical,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,193.3,Sb-W,2,2,NA,529.7,tilled,mechanical,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,193.3,M-Sb-W,3,3,NA,330,tilled,mechanical,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,193.3,M-Sb-W,3,3,NA,342.2,tilled,mechanical,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,193.3,M-Sb-W,3,3,NA,304.2,tilled,mechanical,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,87.3,Sb-M,2,2,NA,89.5,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,87.3,Sb-M,2,2,NA,90.2,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,87.3,Sb-W-M,3,3,NA,100.2,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,87.3,Sb-W-M,3,3,NA,77.3,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,M,M,1,1,NA,87.3,Sb-W-M,3,3,NA,101.6,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,64.4,M-Sb,2,2,NA,89.5,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,64.4,M-Sb,2,2,NA,90.2,tilled,herbicides,community,N,N,1.4142135623730951,0.11785113019775793
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,64.4,W-Sb,2,2,NA,51.5,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,64.4,W-Sb,2,2,NA,28.6,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,64.4,W-M-Sb,3,3,NA,100.2,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,64.4,W-M-Sb,3,3,NA,77.3,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,Sb,Sb,1,1,NA,64.4,W-M-Sb,3,3,NA,101.6,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,25.5,Sb-W,2,2,NA,51.5,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,25.5,Sb-W,2,2,NA,28.6,tilled,herbicides,community,N,N,11.313708498984761,0.9428090415820635
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,25.5,M-Sb-W,3,3,NA,100.2,tilled,herbicides,community,N,N,4.58257569495584,0.57282196186948
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,25.5,M-Sb-W,3,3,NA,77.3,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+20,"Doucet et al., 1999",42.229839,-82.842511,LAST,10,3,W,W,1,1,NA,25.5,M-Sb-W,3,3,NA,101.6,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+21,"Eiszner et al., 1996",12.545447,-86.983274,AVG,3.5,4,Sb,Sb,1,1,117,158,C-Sb,2,2,137,110,tilled,IC,community,N,N,NA,NA
+21,"Eiszner et al., 1996",12.545447,-86.983274,AVG,3.5,4,Sb,Sb,1,1,143,181,C-Sb,2,2,145,271,tilled,IC,community,N,N,NA,NA
+21,"Eiszner et al., 1996",12.545447,-86.983274,AVG,3.5,4,Sb,Sb,1,1,93,130,C-Sb,2,2,125,133,tilled,IC,community,N,N,NA,NA
+21,"Eiszner et al., 1996",12.545447,-86.983274,AVG,3.5,4,Sb,Sb,1,1,170,242,C-Sb,2,2,141,238,tilled,IC,community,N,N,NA,NA
+22,"Filizadeh et al., 2007",36.811335,50.870237,AVG,1.5,4,Ri,Ri,1,1,288,68,Sb-Ri,2,2,90,26,tilled,none,community,N,N,4.242640687119285,0.35355339059327373
+22,"Filizadeh et al., 2007",36.811335,50.870237,AVG,1.5,4,Ri,Ri,1,1,288,68,Sb-Ri,2,2,110,34,tilled,none,community,N,N,4.242640687119285,0.35355339059327373
+22,"Filizadeh et al., 2007",36.811335,50.870237,AVG,1.5,4,Ri,Ri,1,1,288,68,Sb-Ri,2,2,163,44,tilled,none,community,N,N,4.242640687119285,0.35355339059327373
+22,"Filizadeh et al., 2007",36.811335,50.870237,AVG,1.5,4,Ri,Ri,1,1,288,68,Sb-Ri,2,2,102,31,tilled,none,community,N,N,1.4142135623730951,0.11785113019775793
+22,"Filizadeh et al., 2007",36.811335,50.870237,AVG,1.5,4,Ri,Ri,1,1,288,68,Sb-Ri,2,2,143,39,tilled,none,community,N,N,5.656854249492381,0.47140452079103173
+22,"Filizadeh et al., 2007",36.811335,50.870237,AVG,1.5,4,Ri,Ri,1,1,288,68,Sb-Ri,2,2,180,48,tilled,none,community,N,N,5.656854249492381,0.47140452079103173
+23,"Goplen et al., 2016",44.002881,-92.461605,RM,2,4,M,M,1,1,NA,5.6,Sb-M-M,3,2,NA,10.5,tilled,herbicides,single species,N,N,0,0
+23,"Goplen et al., 2016",44.002881,-92.461605,RM,3,4,M,M,1,1,NA,1.1,Sb-M-M,3,2,NA,0.1,tilled,herbicides,single species,N,N,0,0
+23,"Goplen et al., 2016",44.002881,-92.461605,RM,1,4,M,M,1,1,NA,3.14,M-Sb-M,3,2,NA,4.7,tilled,herbicides,single species,N,N,0,0
+23,"Goplen et al., 2016",44.002881,-92.461605,RM,3,4,M,M,1,1,NA,1.1,M-Sb-M,3,2,NA,1.5,tilled,herbicides,single species,N,N,0,0
+23,"Goplen et al., 2016",44.002881,-92.461605,RM,3,4,M,M,1,1,NA,1.1,Sb-W-M,3,3,NA,0.5,tilled,herbicides,single species,N,N,0,0
+23,"Goplen et al., 2016",44.002881,-92.461605,RM,3,4,M,M,1,1,NA,1.1,Sb-A-M,3,3,NA,0.5,tilled,herbicides,single species,Y,N,0,0
+23,"Goplen et al., 2016",44.002881,-92.461605,RM,3,4,M,M,1,1,NA,1.1,A-A-M,3,2,NA,0.3,tilled,herbicides,single species,Y,N,6.928203230275509,0.34641016151377546
+24,"Gulden et al., 2009",43.289192,-81.494523,AVG,3.5,4,M,Sb-M,2,2,NA,11.7,Sb-W-M,3,3,NA,18.4,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",43.289192,-81.494523,AVG,3.5,4,M,Sb-M,2,2,NA,34,Sb-W-M,3,3,NA,68,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.207291,-82.718544,AVG,3.5,4,M,Sb-M,2,2,NA,1.9,Sb-W-M,3,3,NA,1.9,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.207291,-82.718544,AVG,3.5,4,M,Sb-M,2,2,NA,6.8,Sb-W-M,3,3,NA,6.8,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,M,Sb-M,2,2,NA,24.3,Sb-W-M,3,3,NA,20.4,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,M,Sb-M,2,2,NA,31.1,Sb-W-M,3,3,NA,32,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,M,Sb-M,2,2,NA,20.4,Sb-W-M,3,3,NA,10.7,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,M,Sb-M,2,2,NA,19.4,Sb-W-M,3,3,NA,10.7,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",43.80372,-81.670344,AVG,3.5,4,M,Sb-M,2,2,NA,12.6,Sb-W-M,3,3,NA,2.9,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",43.80372,-81.670344,AVG,3.5,4,M,Sb-M,2,2,NA,2.9,Sb-W-M,3,3,NA,2.9,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",43.289192,-81.494523,AVG,3.5,4,Sb,M-Sb,2,2,NA,26.6,W-M-Sb,3,3,NA,23.1,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",43.289192,-81.494523,AVG,3.5,4,Sb,M-Sb,2,2,NA,14.5,W-M-Sb,3,3,NA,13.4,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.207291,-82.718544,AVG,3.5,4,Sb,M-Sb,2,2,NA,1,W-M-Sb,3,3,NA,1.7,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.207291,-82.718544,AVG,3.5,4,Sb,M-Sb,2,2,NA,4.5,W-M-Sb,3,3,NA,5.5,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,Sb,M-Sb,2,2,NA,13.1,W-M-Sb,3,3,NA,10.7,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,Sb,M-Sb,2,2,NA,10.7,W-M-Sb,3,3,NA,10.3,tilled,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,Sb,M-Sb,2,2,NA,17.2,W-M-Sb,3,3,NA,11.4,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",42.379681,-81.84664,AVG,3.5,4,Sb,M-Sb,2,2,NA,12.8,W-M-Sb,3,3,NA,7.6,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",43.80372,-81.670344,AVG,3.5,4,Sb,M-Sb,2,2,NA,6.2,W-M-Sb,3,3,NA,4.8,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+24,"Gulden et al., 2009",43.80372,-81.670344,AVG,3.5,4,Sb,M-Sb,2,2,NA,2.4,W-M-Sb,3,3,NA,3.8,NT,herbicides,community,N,N,1.5857864376269049,0.06964886980224207
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,156.4,6.2,sR-sB-Fp-sB,4,3,89.9,9.4,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,70.1,7.6,sR-sB-Fp-sB,4,3,49.4,8,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,45.8,7.2,sR-sB-Fp-sB,4,3,34.2,7.2,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,28.7,6.9,sR-sB-Fp-sB,4,3,18,8,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,25.2,5.8,sR-sB-Fp-sB,4,3,22.5,7.7,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,11.7,6.5,sR-sB-Fp-sB,4,3,2.7,6.8,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,5.4,7.3,sR-sB-Fp-sB,4,3,7.2,8.4,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,1.8,6,sR-sB-Fp-sB,4,3,3.6,8.3,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,2.7,6.5,sR-sB-Fp-sB,4,3,3.6,6.4,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,1.8,5.5,sR-sB-Fp-sB,4,3,1.8,7.5,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,1.8,6.8,sR-sB-Fp-sB,4,3,3.6,7.6,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,1,4,sB,sB,1,1,3.6,7.7,sR-sB-Fp-sB,4,3,1.8,7.7,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,494.3,32.7,sR-sB-Fp-sB,4,3,269.9,29.5,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,224.4,21.8,sR-sB-Fp-sB,4,3,113.6,20.2,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,227.3,19.1,sR-sB-Fp-sB,4,3,88.1,18.6,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,91,14.9,sR-sB-Fp-sB,4,3,39.8,15.3,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,93.8,12.8,sR-sB-Fp-sB,4,3,31.2,12.8,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,31.3,9,sR-sB-Fp-sB,4,3,5.7,7.6,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,22.7,11,sR-sB-Fp-sB,4,3,17,10.3,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,11.4,8.3,sR-sB-Fp-sB,4,3,5.7,7,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,14,6.7,sR-sB-Fp-sB,4,3,5.7,6.5,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,2.8,6.3,sR-sB-Fp-sB,4,3,5.7,5.8,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,8.5,5.8,sR-sB-Fp-sB,4,3,5.7,5.1,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,3,4,sB,sB,1,1,5.7,6.7,sR-sB-Fp-sB,4,3,5.7,4.9,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,1536.4,152.8,sR-sB-Fp-sB,4,3,800,88.3,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,672.7,57.1,sR-sB-Fp-sB,4,3,262.6,49,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,1090.9,46.4,sR-sB-Fp-sB,4,3,218.1,44.5,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,281.8,29.4,sR-sB-Fp-sB,4,3,81.8,27.5,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,318.2,25.6,sR-sB-Fp-sB,4,3,54.5,21,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,90.9,12.2,sR-sB-Fp-sB,4,3,18.2,8.4,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,90.9,16.6,sR-sB-Fp-sB,4,3,27.3,11.9,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,45.5,10.3,sR-sB-Fp-sB,4,3,9.1,4.8,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,45.5,7.4,sR-sB-Fp-sB,4,3,0,6.4,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,9.1,7.4,sR-sB-Fp-sB,4,3,0,3.7,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,18.2,4.7,sR-sB-Fp-sB,4,3,0,3.6,NT,herbicides,single species,N,N,0,0
+25,"Harker et al., 2009",50.046952,-100.029067,RM,5,4,sB,sB,1,1,0,5.5,sR-sB-Fp-sB,4,3,0,3.6,NT,herbicides,single species,N,N,0,0
+26,"Harker et al., 2015",52.519938,-113.78395,RM,3,4,sR,sR,1,1,NA,50.9,sW-sR-sR,3,2,NA,87.5,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",52.519938,-113.78395,RM,3,4,sR,sR,1,1,NA,50.9,Fp-sW-sR,3,3,NA,22.8,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",52.519938,-113.78395,RM,3,4,sR,sR,1,1,NA,50.9,sW-sW-sR,3,2,NA,45.1,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",52.519938,-113.78395,RM,6,4,sR,sR,1,1,NA,355,sW-sR-sR,3,2,NA,160,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",52.519938,-113.78395,RM,6,4,sR,sR,1,1,NA,355,Fp-sW-sR,3,3,NA,133.2,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",52.519938,-113.78395,RM,6,4,sR,sR,1,1,NA,355,sW-sW-sR,3,2,NA,169.9,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",50.046952,-100.029067,RM,3,4,sR,sR,1,1,NA,2.9,sW-sR-sR,3,2,NA,12.3,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",50.046952,-100.029067,RM,3,4,sR,sR,1,1,NA,2.9,Fp-sW-sR,3,3,NA,13.5,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",50.046952,-100.029067,RM,3,4,sR,sR,1,1,NA,2.9,sW-sW-sR,3,2,NA,8.4,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",50.046952,-100.029067,RM,6,4,sR,sR,1,1,NA,52.5,sW-sR-sR,3,2,NA,29.5,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",50.046952,-100.029067,RM,6,4,sR,sR,1,1,NA,52.5,Fp-sW-sR,3,3,NA,9.1,NT,herbicides,community,N,N,0,0
+26,"Harker et al., 2015",50.046952,-100.029067,RM,6,4,sR,sR,1,1,NA,52.5,sW-sW-sR,3,2,NA,37.3,NT,herbicides,community,N,N,0,0
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,M,Sb-M,2,2,0.26,NA,Sb-O/RCl-M,3,4,6.18,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,M,Sb-M,2,2,0.26,NA,Sb-O/RCl-M,3,4,0.16,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,M,Sb-M,2,2,0.11,NA,Sb-O/A-A-M,4,4,2.8,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,M,Sb-M,2,2,0.11,NA,Sb-O/A-A-M,4,4,2.24,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,M,Sb-M,2,2,0.23,NA,Sb-O/RCl-M,3,4,0.28,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,M,Sb-M,2,2,0.23,NA,Sb-O/RCl-M,3,4,0.4,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,M,Sb-M,2,2,0.65,NA,Sb-O/A-A-M,4,4,1.15,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,M,Sb-M,2,2,0.65,NA,Sb-O/A-A-M,4,4,1.44,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,M,Sb-M,2,2,1.18,NA,Sb-O/RCl-M,3,4,0.17,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,M,Sb-M,2,2,1.18,NA,Sb-O/RCl-M,3,4,0.17,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,M,Sb-M,2,2,0.18,NA,Sb-O/A-A-M,4,4,0.7,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,M,Sb-M,2,2,0.18,NA,Sb-O/A-A-M,4,4,0.25,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,M,Sb-M,2,2,5.46,NA,Sb-O/RCl-M,3,4,18.63,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,M,Sb-M,2,2,5.46,NA,Sb-O/RCl-M,3,4,8.82,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,M,Sb-M,2,2,4.16,NA,Sb-O/A-A-M,4,4,27.73,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,M,Sb-M,2,2,4.16,NA,Sb-O/A-A-M,4,4,9.93,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,M,Sb-M,2,2,0.03,NA,Sb-O/RCl-M,3,4,0.17,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,M,Sb-M,2,2,0.03,NA,Sb-O/RCl-M,3,4,0.13,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,M,Sb-M,2,2,0.01,NA,Sb-O/A-A-M,4,4,0.05,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,M,Sb-M,2,2,0.01,NA,Sb-O/A-A-M,4,4,0.01,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,M,Sb-M,2,2,0.19,NA,Sb-O/RCl-M,3,4,0.14,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,M,Sb-M,2,2,0.19,NA,Sb-O/RCl-M,3,4,0.04,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,M,Sb-M,2,2,0.03,NA,Sb-O/A-A-M,4,4,0.12,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,M,Sb-M,2,2,0.03,NA,Sb-O/A-A-M,4,4,0.03,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,M,Sb-M,2,2,0.04,NA,Sb-O/RCl-M,3,4,1.39,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,M,Sb-M,2,2,0.04,NA,Sb-O/RCl-M,3,4,0.2,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,M,Sb-M,2,2,1.62,NA,Sb-O/A-A-M,4,4,8.42,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,M,Sb-M,2,2,1.62,NA,Sb-O/A-A-M,4,4,2.95,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,M,Sb-M,2,2,0.06,NA,Sb-O/RCl-M,3,4,0.86,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,M,Sb-M,2,2,0.06,NA,Sb-O/RCl-M,3,4,1.49,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,M,Sb-M,2,2,1.64,NA,Sb-O/A-A-M,4,4,7.13,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,M,Sb-M,2,2,1.64,NA,Sb-O/A-A-M,4,4,9.41,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,Sb,M-Sb,2,2,0.06,NA,O/RCl-M-Sb,3,4,0.37,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,Sb,M-Sb,2,2,0.06,NA,O/RCl-M-Sb,3,4,0.07,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,Sb,M-Sb,2,2,0.5,NA,O/A-A-M-Sb,4,4,0.26,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,6,4,Sb,M-Sb,2,2,0.5,NA,O/A-A-M-Sb,4,4,0.24,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,Sb,M-Sb,2,2,0.25,NA,O/RCl-M-Sb,3,4,0.22,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,Sb,M-Sb,2,2,0.25,NA,O/RCl-M-Sb,3,4,0.06,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,Sb,M-Sb,2,2,0.26,NA,O/A-A-M-Sb,4,4,4.47,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,7,4,Sb,M-Sb,2,2,0.26,NA,O/A-A-M-Sb,4,4,0.07,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,Sb,M-Sb,2,2,0.17,NA,O/RCl-M-Sb,3,4,0.05,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,Sb,M-Sb,2,2,0.17,NA,O/RCl-M-Sb,3,4,0.02,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,Sb,M-Sb,2,2,0.4,NA,O/A-A-M-Sb,4,4,0.25,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,8,4,Sb,M-Sb,2,2,0.4,NA,O/A-A-M-Sb,4,4,0.24,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,Sb,M-Sb,2,2,0.04,NA,O/RCl-M-Sb,3,4,0,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,Sb,M-Sb,2,2,0.04,NA,O/RCl-M-Sb,3,4,0,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,Sb,M-Sb,2,2,0.79,NA,O/A-A-M-Sb,4,4,0.35,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,9,4,Sb,M-Sb,2,2,0.79,NA,O/A-A-M-Sb,4,4,0.03,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,Sb,M-Sb,2,2,0.06,NA,O/RCl-M-Sb,3,4,0.29,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,Sb,M-Sb,2,2,0.06,NA,O/RCl-M-Sb,3,4,0.25,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,Sb,M-Sb,2,2,0.26,NA,O/A-A-M-Sb,4,4,0.34,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,10,4,Sb,M-Sb,2,2,0.26,NA,O/A-A-M-Sb,4,4,0.19,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,Sb,M-Sb,2,2,0.48,NA,O/RCl-M-Sb,3,4,1.23,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,Sb,M-Sb,2,2,0.48,NA,O/RCl-M-Sb,3,4,0.09,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,Sb,M-Sb,2,2,1.51,NA,O/A-A-M-Sb,4,4,4.76,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,11,4,Sb,M-Sb,2,2,1.51,NA,O/A-A-M-Sb,4,4,0.45,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,Sb,M-Sb,2,2,0.06,NA,O/RCl-M-Sb,3,4,0.09,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,Sb,M-Sb,2,2,0.06,NA,O/RCl-M-Sb,3,4,0.06,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,Sb,M-Sb,2,2,2.59,NA,O/A-A-M-Sb,4,4,10.68,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,12,4,Sb,M-Sb,2,2,2.59,NA,O/A-A-M-Sb,4,4,2.88,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,Sb,M-Sb,2,2,2.5,NA,O/RCl-M-Sb,3,4,1.73,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,Sb,M-Sb,2,2,2.5,NA,O/RCl-M-Sb,3,4,2.21,NA,tilled,herbicides,community,Y,N,-0.41421356237309515,-0.034517796864424605
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,Sb,M-Sb,2,2,11.79,NA,O/A-A-M-Sb,4,4,104.25,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+27,"Hunt et al., 2017",42.020898,-93.777058,RM,13,4,Sb,M-Sb,2,2,11.79,NA,O/A-A-M-Sb,4,4,4.18,NA,tilled,herb/mech,community,Y,N,5.585786437626905,0.31964886980224205
+28,"Koocheki et al., 2009",36.262176,59.612759,LAST,6,3,W,W,1,1,NA,165,M-W,2,2,NA,98,tilled,IC,community,N,N,11.313708498984761,0.9428090415820635
+28,"Koocheki et al., 2009",36.262176,59.612759,LAST,6,3,W,W,1,1,NA,165,Be-W,2,2,NA,141,tilled,IC,community,N,N,9.899494936611665,0.8249579113843054
+29,"Legere et al., 2005",47.369377,-70.034259,RM,3,4,sB,sB,1,1,NA,65.2,RCl-sB/RCl,2,2,NA,0,IC,herbicides,community,Y,N,0,0
+29,"Legere et al., 2005",47.369377,-70.034259,RM,4,4,sB,sB,1,1,NA,60.1,RCl-sB/RCl,2,2,NA,34.1,IC,herbicides,community,Y,N,0,0
+29,"Legere et al., 2005",47.369377,-70.034259,RM,5,4,sB,sB,1,1,NA,76.1,RCl-sB/RCl,2,2,NA,14.5,IC,herbicides,community,Y,N,0,0
+29,"Legere et al., 2005",47.369377,-70.034259,RM,6,4,sB,sB,1,1,NA,34.1,RCl-sB/RCl,2,2,NA,12.3,IC,herbicides,community,Y,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,1,6,Ca,Ca,1,1,2.26,NA,Ca-On-Ca,2,2,2.26,NA,tilled,herbicides,community,N,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,1,6,Ca,Ca,1,1,2.26,NA,Ca-B-Ca,2,2,2.26,NA,tilled,herbicides,community,N,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,2,6,Ca,Ca,1,1,2.05,NA,B-Ca-Ca,3,2,0.82,NA,tilled,herbicides,community,N,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,36.69,NA,Ca-On-Ca,2,2,83.98,NA,tilled,herbicides,community,N,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,36.69,NA,B-Ca-Ca,3,2,48.6,NA,tilled,herbicides,community,N,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,36.69,NA,Ca-B-Ca,2,2,47.86,NA,tilled,herbicides,community,N,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,36.69,NA,B-On-Ca,3,3,71.69,NA,tilled,herbicides,community,N,N,0,0
+30,"Leroux et al., 1996",45.10671,-73.527547,RM,3,6,Ca,Ca,1,1,36.69,NA,On-B-Ca,3,3,39.17,NA,tilled,herbicides,community,N,N,0,0
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,2,4,M,Sb-M,2,2,NA,274,Sb-sTr/RCl-M,3,4,NA,282,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,2,4,M,Sb-M,2,2,NA,274,Sb-sTr/A-A-M,4,4,NA,291,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,3,4,M,Sb-M,2,2,NA,170,Sb-sTr/RCl-M,3,4,NA,26,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,3,4,M,Sb-M,2,2,NA,170,Sb-sTr/A-A-M,4,4,NA,22,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,4,4,M,Sb-M,2,2,NA,18,Sb-sTr/RCl-M,3,4,NA,22,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,4,4,M,Sb-M,2,2,NA,18,Sb-sTr/A-A-M,4,4,NA,20,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,2,4,Sb,M-Sb,2,2,NA,122,sTr/RCl-M-Sb,3,4,NA,444,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,2,4,Sb,M-Sb,2,2,NA,122,sTr/A-A-M-Sb,4,4,NA,248,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,3,4,Sb,M-Sb,2,2,NA,255,sTr/RCl-M-Sb,3,4,NA,84,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,3,4,Sb,M-Sb,2,2,NA,255,sTr/A-A-M-Sb,4,4,NA,254,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,4,4,Sb,M-Sb,2,2,NA,32,sTr/RCl-M-Sb,3,4,NA,25,tilled,IC,community,Y,N,-0.41421356237309515,-0.034517796864424605
+31,"Liebman et al., 2014",42.020898,-93.777058,RM,4,4,Sb,M-Sb,2,2,NA,32,sTr/A-A-M-Sb,4,4,NA,33,tilled,IC,community,Y,N,5.585786437626905,0.31964886980224205
+32,"Manley et al., 2001",37.584096,-75.782421,RM,1,4,M,M,1,1,NA,25,Sb-M,2,2,NA,50,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,2,4,M,M,1,1,NA,131,Sb-M,2,2,NA,158,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,3,4,M,M,1,1,NA,115,Sb-M,2,2,NA,168,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,4,4,M,M,1,1,NA,171,Sb-M,2,2,NA,277,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,1,4,M,M,1,1,NA,25,To-Sb-M,3,3,NA,14,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,2,4,M,M,1,1,NA,131,To-Sb-M,3,3,NA,154,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,3,4,M,M,1,1,NA,115,To-Sb-M,3,3,NA,116,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,4,4,M,M,1,1,NA,171,To-Sb-M,3,3,NA,224,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,1,4,M,M,1,1,NA,12,Sb-M,2,2,NA,50,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,2,4,M,M,1,1,NA,171,Sb-M,2,2,NA,158,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,3,4,M,M,1,1,NA,128,Sb-M,2,2,NA,168,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,4,4,M,M,1,1,NA,354,Sb-M,2,2,NA,277,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,1,4,Sb,Sb,1,1,NA,12,M-To-Sb,3,3,NA,14,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,2,4,Sb,Sb,1,1,NA,171,M-To-Sb,3,3,NA,154,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,3,4,Sb,Sb,1,1,NA,128,M-To-Sb,3,3,NA,116,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,4,4,Sb,Sb,1,1,NA,354,M-To-Sb,3,3,NA,224,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,1,4,Sb,Sb,1,1,NA,143,M-To-Sb,2,2,NA,130,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,2,4,Sb,Sb,1,1,NA,301,Sb-M,2,2,NA,288,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,3,4,Sb,Sb,1,1,NA,99,Sb-M,2,2,NA,101,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,4,4,Sb,Sb,1,1,NA,282,Sb-M,2,2,NA,281,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,1,4,Sb,Sb,1,1,NA,134,Sb-M,2,2,NA,130,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,2,4,Sb,Sb,1,1,NA,300,Sb-M,2,2,NA,288,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,3,4,Sb,Sb,1,1,NA,139,Sb-M,2,2,NA,101,tilled,none,community,N,N,0,0
+32,"Manley et al., 2001",37.584096,-75.782421,RM,4,4,Sb,Sb,1,1,NA,328,Sb-M,2,2,NA,281,tilled,none,community,N,N,0,0
+33,"Marenco et al., 1999",-2.578711,-44.206322,LAST,1,4,Ri,Ri,1,1,71.77,684.48,Cp/Ri,1,2,77.45,187.5,tilled,none,community,N,N,0,0
+33,"Marenco et al., 1999",-2.578711,-44.206322,LAST,1,4,Ri,Ri,1,1,71.77,684.48,Hb/Ri,1,2,73.37,131.25,tilled,none,community,N,N,0,0
+33,"Marenco et al., 1999",-2.578711,-44.206322,LAST,1,4,Ri,Ri,1,1,71.77,684.48,Vb/Ri,1,2,99.46,29.68,tilled,none,community,N,N,0,0
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,1,4,sW,sW,1,1,NA,17,sW-So-sW,2,2,NA,24,NT,none,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,1,4,sW,sW,1,1,NA,3,sW-So-sW,2,2,NA,2,NT,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,1,4,sW,sW,1,1,NA,4,sW-So-sW,2,2,NA,2,NT,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,4,4,sW,sW,1,1,NA,421,sW-So-sW,2,2,NA,29,NT,none,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,4,4,sW,sW,1,1,NA,24,sW-So-sW,2,2,NA,0,NT,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,4,4,sW,sW,1,1,NA,29,sW-So-sW,2,2,NA,1,NT,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,1,4,sW,sW,1,1,NA,18,sW-So-sW,2,2,NA,36,tilled,none,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,1,4,sW,sW,1,1,NA,9,sW-So-sW,2,2,NA,2,tilled,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,1,4,sW,sW,1,1,NA,2,sW-So-sW,2,2,NA,3,tilled,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,4,4,sW,sW,1,1,NA,36,sW-So-sW,2,2,NA,9,tilled,none,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,4,4,sW,sW,1,1,NA,2,sW-So-sW,2,2,NA,1,tilled,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+34,"Martin and Felton, 1993",-31.147432,150.983345,RM,4,4,sW,sW,1,1,NA,3,sW-So-sW,2,2,NA,5,tilled,herbicides,single species,N,N,1.4142135623730951,0.07856742013183862
+35,"Melander et al., 2008",55.312867,11.394974,RM,4,4,W,W,1,1,NA,7.8,R-B-R-W,3,3,NA,32.3,tilled,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,17.4,R-B-R-W,3,3,NA,12.3,tilled,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,2,4,W,W,1,1,NA,34.8,W-Sb-Fp-W,3,3,NA,25.9,tilled,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,17.4,W-Sb-Fp-W,3,3,NA,2.2,tilled,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+35,"Melander et al., 2008",55.312867,11.394974,RM,4,4,W,W,1,1,NA,0,B-R-W-W,3,3,NA,9.2,NT,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,1,B-R-W-W,3,3,NA,1,NT,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,2,4,W,W,1,1,NA,8.1,W-sB-Fp-W,3,3,NA,3.3,NT,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,0,W-sB-R-W,3,3,NA,10.7,NT,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+35,"Melander et al., 2008",55.312867,11.394974,RM,4,4,W,W,1,1,NA,26.3,B-R-W-W,3,3,NA,1.5,tilled,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,22.6,B-R-W-W,3,3,NA,4.6,tilled,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,2,4,W,W,1,1,NA,7,W-sB-Fp-W,3,3,NA,7.8,tilled,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,22.6,W-sB-R-W,3,3,NA,16,tilled,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+35,"Melander et al., 2008",55.312867,11.394974,RM,4,4,W,W,1,1,NA,26.7,B-R-W-W,3,3,NA,18.4,tilled,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,10.4,B-R-W-W,3,3,NA,12.3,tilled,herbicides,single species,N,N,0.816496580927726,0.06804138174397717
+35,"Melander et al., 2008",55.312867,11.394974,RM,2,4,W,W,1,1,NA,7,W-sB-Fp-W,3,3,NA,14,tilled,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+35,"Melander et al., 2008",55.312867,11.394974,RM,5,4,W,W,1,1,NA,10.4,W-sB-Fp-W,3,3,NA,39.3,tilled,herbicides,single species,N,N,5.715476066494082,0.4762896722078402
+36,"Mock et al., 2012",40.415151,-86.940704,LAST,3,6,Sb,Sb,1,1,NA,178,M-Sb,2,2,NA,75,NT,herbicides,community,N,N,0,0
+36,"Mock et al., 2012",40.415151,-86.940704,LAST,3,6,Sb,Sb,1,1,NA,26,M-Sb,2,2,NA,11,NT,herbicides,community,N,N,0,0
+36,"Mock et al., 2012",40.415151,-86.940704,LAST,3,6,Sb,Sb,1,1,NA,225,M-Sb,2,2,NA,63,NT,herbicides,community,N,N,0,0
+36,"Mock et al., 2012",40.415151,-86.940704,LAST,3,6,Sb,Sb,1,1,NA,138,M-Sb,2,2,NA,27,NT,none,community,N,N,0,0
+37,"Mohammaddoust Chamanad et al., 2009",55.83576,37.560004,AVG,93.5,3,sB,sB,1,1,NA,268,RCl-RCl-Fl-Fl-F-F-Ry-Ry-Po-Po-sB-sB,12,6,NA,144,tilled,none,community,Y,N,9.118966803073446,0.5845491540431696
+37,"Mohammaddoust Chamanad et al., 2009",55.83576,37.560004,AVG,93.5,3,sB,sB,1,1,NA,452,RCl-RCl-Fl-Fl-F-F-Ry-Ry-Po-Po-sB-sB,12,6,NA,146,tilled,none,community,Y,N,9.118966803073446,0.5845491540431696
+37,"Mohammaddoust Chamanad et al., 2009",55.83576,37.560004,AVG,93.5,3,sB,sB,1,1,NA,526,RCl-RCl-Fl-Fl-F-F-Ry-Ry-Po-Po-sB-sB,12,6,NA,146,tilled,none,community,Y,N,9.118966803073446,0.5845491540431696
+37,"Mohammaddoust Chamanad et al., 2009",55.83576,37.560004,AVG,93.5,3,sB,sB,1,1,NA,327,RCl-RCl-Fl-Fl-F-F-Ry-Ry-Po-Po-sB-sB,12,6,NA,121,tilled,none,community,Y,N,9.118966803073446,0.5845491540431696
+37,"Mohammaddoust Chamanad et al., 2009",55.83576,37.560004,AVG,93.5,3,sB,sB,1,1,NA,159,RCl-RCl-Fl-Fl-F-F-Ry-Ry-Po-Po-sB-sB,12,6,NA,112,tilled,none,community,Y,N,9.118966803073446,0.5845491540431696
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,524,Sb-O/A-A-M,4,4,NA,202,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,511,Sb-O/A-A-M,4,4,NA,159,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,324,Sb-O/A-A-M,4,4,NA,70,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,523,Sb-O/A-A-M,4,4,NA,157,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,154,O/A-A-M-Sb,4,4,NA,213,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,111,O/A-A-M-Sb,4,4,NA,9,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,71,O/A-A-M-Sb,4,4,NA,27,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,205,O/A-A-M-Sb,4,4,NA,66,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,1090,Sb-O/A-A-M,4,4,NA,469,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,1009,Sb-O/A-A-M,4,4,NA,318,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,244,Sb-O/A-A-M,4,4,NA,75,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,M,Sb-M,2,2,NA,687,Sb-O/A-A-M,4,4,NA,313,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,239,O/A-A-M-Sb,4,4,NA,114,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,281,O/A-A-M-Sb,4,4,NA,206,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,77,O/A-A-M-Sb,4,4,NA,49,tilled,herb/mech,community,Y,N,7.234178138070235,0.46175605136618525
+38,"Porter et al., 2003",44.231538,-95.26451,LAST,6,3,Sb,M-Sb,2,2,NA,356,O/A-A-M-Sb,4,4,NA,179,tilled,mechanical,community,Y,N,7.234178138070235,0.46175605136618525
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,RM,1,3,W,W,1,1,NA,27,R-W,2,2,NA,27,tilled,herbicides,single species,N,N,0,0
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,RM,1,3,W,W,1,1,NA,27,Fp-W,2,2,NA,20,tilled,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,RM,1,3,W,W,1,1,NA,27,Su-W,2,2,NA,38,tilled,herbicides,single species,N,N,8.48528137423857,0.7071067811865475
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,RM,3,3,W,W,1,1,NA,29,R-W,2,2,NA,4,tilled,herbicides,single species,N,N,0,0
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,RM,3,3,W,W,1,1,NA,29,Fp-W,2,2,NA,2,tilled,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+39,"Rey-Caballero et al., 2017",41.917577,1.014483,RM,3,3,W,W,1,1,NA,29,Su-W,2,2,NA,0.5,tilled,herbicides,single species,N,N,8.48528137423857,0.7071067811865475
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,RM,1,3,W,W,1,1,NA,1.5,R-W,2,2,NA,2.1,tilled,herbicides,single species,N,N,0,0
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,RM,1,3,W,W,1,1,NA,1.5,Fp-W,2,2,NA,1.8,tilled,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,RM,1,3,W,W,1,1,NA,1.5,Su-W,2,2,NA,1.5,tilled,herbicides,single species,N,N,8.48528137423857,0.7071067811865475
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,RM,3,3,W,W,1,1,NA,11,R-W,2,2,NA,14,tilled,herbicides,single species,N,N,0,0
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,RM,3,3,W,W,1,1,NA,11,Fp-W,2,2,NA,4,tilled,herbicides,single species,N,N,1.4142135623730951,0.11785113019775793
+39,"Rey-Caballero et al., 2017",41.630231,1.340414,RM,3,3,W,W,1,1,NA,11,Su-W,2,2,NA,12,tilled,herbicides,single species,N,N,8.48528137423857,0.7071067811865475
+40,"Santin-Montanya et al., 2016",40.535421,-3.330587,LAST,12,4,B,B,1,1,NA,1160.3,F-Fp-B,3,2,NA,122.1,IC,herbicides,community,N,N,1.4142135623730951,0.05892556509887897
+40,"Santin-Montanya et al., 2016",40.535421,-3.330587,LAST,12,4,B,B,1,1,NA,778.6,F-Fp-B,3,2,NA,61.1,IC,herbicides,community,N,N,1.4142135623730951,0.05892556509887897
+41,"Schrieber, 1992",40.428001,-86.90336,RM,6,4,M,M,1,1,NA,243,Sb-M,2,2,NA,147,IC,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,RM,7,4,M,M,1,1,NA,336,Sb-M,2,2,NA,93,IC,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,RM,8,4,M,M,1,1,NA,821,Sb-M,2,2,NA,275,IC,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,RM,9,4,M,M,1,1,NA,185,Sb-M,2,2,NA,59,IC,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,RM,10,4,M,M,1,1,NA,1398,Sb-M,2,2,NA,572,IC,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,RM,11,4,M,M,1,1,NA,711,Sb-M,2,2,NA,70,IC,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,RM,12,4,M,M,1,1,NA,61,Sb-M,2,2,NA,53,IC,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,RM,6,4,M,M,1,1,NA,243,Sb-W-M,3,3,NA,21,IC,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,RM,7,4,M,M,1,1,NA,336,Sb-W-M,3,3,NA,19,IC,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,RM,8,4,M,M,1,1,NA,821,Sb-W-M,3,3,NA,267,IC,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,RM,9,4,M,M,1,1,NA,185,Sb-W-M,3,3,NA,7,IC,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,RM,10,4,M,M,1,1,NA,1398,Sb-W-M,3,3,NA,57,IC,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,RM,11,4,M,M,1,1,NA,711,Sb-W-M,3,3,NA,172,IC,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,RM,12,4,M,M,1,1,NA,61,Sb-W-M,3,3,NA,15,IC,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,67,Sb-M,2,2,NA,43,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,67,Sb-W-M,3,3,NA,13,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,6,Sb-M,2,2,NA,7,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,6,Sb-W-M,3,3,NA,6,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,7,Sb-M,2,2,NA,7,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,7,Sb-W-M,3,3,NA,9,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,120,Sb-M,2,2,NA,18,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,120,Sb-W-M,3,3,NA,17,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,28,Sb-M,2,2,NA,5,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,28,Sb-W-M,3,3,NA,4,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,13,Sb-M,2,2,NA,6,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,13,Sb-W-M,3,3,NA,6,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,336,Sb-M,2,2,NA,96,NT,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,336,Sb-W-M,3,3,NA,16,NT,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,51,Sb-M,2,2,NA,15,NT,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,51,Sb-W-M,3,3,NA,6,NT,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,41,Sb-M,2,2,NA,5,NT,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,7,4,M,M,1,1,NA,41,Sb-W-M,3,3,NA,6,NT,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,109,Sb-M,2,2,NA,30,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,109,Sb-W-M,3,3,NA,11,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,33,Sb-M,2,2,NA,21,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,33,Sb-W-M,3,3,NA,10,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,32,Sb-M,2,2,NA,20,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,32,Sb-W-M,3,3,NA,9,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,429,Sb-M,2,2,NA,154,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,429,Sb-W-M,3,3,NA,26,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,317,Sb-M,2,2,NA,51,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,317,Sb-W-M,3,3,NA,26,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,94,Sb-M,2,2,NA,43,tilled,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,94,Sb-W-M,3,3,NA,43,tilled,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,1390,Sb-M,2,2,NA,587,NT,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,1390,Sb-W-M,3,3,NA,90,NT,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,1174,Sb-M,2,2,NA,668,NT,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,1174,Sb-W-M,3,3,NA,36,NT,none,single species,N,N,9.899494936611665,0.8249579113843054
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,668,Sb-M,2,2,NA,397,NT,none,single species,N,N,0,0
+41,"Schrieber, 1992",40.428001,-86.90336,LAST,10,4,M,M,1,1,NA,668,Sb-W-M,3,3,NA,63,NT,none,single species,N,N,9.899494936611665,0.8249579113843054
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,sB,sB,1,1,2.4,7.9,Be-sB,2,2,1,12.7,tilled,herbicides,community,N,N,0,0
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,sB,sB,1,1,2.4,7.9,sR-Be-sB,3,3,2.4,19.4,tilled,herbicides,community,N,N,0,0
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,sB,sB,1,1,2.4,7.9,Fp-Be-sB,3,3,1.1,12.1,tilled,herbicides,community,N,N,0,0
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,sB,sB,1,1,2.4,7.9,W-Be-sB,3,3,1,13.7,tilled,herbicides,community,N,N,6,0.5
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,sB,sB,1,1,2.4,7.9,W-Fp-sB,3,3,2.9,17.8,tilled,herbicides,community,N,N,6,0.5
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,sB,sB,1,1,2.4,7.9,Fp-W-Be-sB,4,4,1.5,7.3,tilled,herbicides,community,N,N,4.898979485566356,0.40824829046386296
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,W,Fp-W,2,2,6.3,19.7,Be-Fp-W,3,3,2,9.2,tilled,herbicides,community,N,N,-2.4852813742385695,-0.20710678118654746
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,W,Fp-W,2,2,6.3,19.7,Fp-W-sB,3,3,4.7,14.2,tilled,herbicides,community,N,N,-2.4852813742385695,-0.20710678118654746
+42,"Seibutis et al., 2006",54.8876,23.835541,AVG,4,4,W,Fp-W,2,2,6.3,19.7,Fp-W-Be-sB,4,4,1.1,6.4,tilled,herbicides,community,N,N,-3.5863018886722138,-0.2988584907226845
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,172,146,Ri-W,2,2,158,111,NT,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,172,146,C-W,2,2,141,105,NT,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,172,146,Mb-W,2,2,149,154,NT,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,172,146,So-W,2,2,23,63,NT,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,12,17,Ri-W,2,2,11,19,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,12,17,C-W,2,2,12,28,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,12,17,Mb-W,2,2,8,19,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,12,17,So-W,2,2,6,9,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,8,11,Ri-W,2,2,6,12,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,8,11,C-W,2,2,6,19,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,8,11,Mb-W,2,2,4,17,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,8,11,So-W,2,2,4,8,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,14,Ri-W,2,2,5,11,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,14,C-W,2,2,7,19,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,14,Mb-W,2,2,4,9,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,14,So-W,2,2,4,7,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,13,Ri-W,2,2,4,9,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,13,C-W,2,2,5,21,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,13,Mb-W,2,2,6,14,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,1,3,W,F-W,2,1,7,13,So-W,2,2,4,8,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,150,556,Ri-W,2,2,50,117,NT,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,150,556,C-W,2,2,81,67,NT,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,150,556,Mb-W,2,2,176,199,NT,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,150,556,So-W,2,2,23,42,NT,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,8,13,Ri-W,2,2,7,12,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,8,13,C-W,2,2,7,20,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,8,13,Mb-W,2,2,6,17,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,8,13,So-W,2,2,4,8,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,5,Ri-W,2,2,5,7,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,5,C-W,2,2,3,16,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,5,Mb-W,2,2,3,8,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,5,So-W,2,2,2,4,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,Ri-W,2,2,5,8,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,C-W,2,2,4,14,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,Mb-W,2,2,3,7,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,So-W,2,2,3,6,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,Ri-W,2,2,4,7,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,C-W,2,2,3,17,tilled,none,community,N,Y,0,0
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,Mb-W,2,2,3,9,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+43,"Shahzad et al., 2016",30.15393,71.524782,RM,2,3,W,F-W,2,1,4,10,So-W,2,2,2,5,tilled,none,community,N,Y,1.4142135623730951,0.23570226039551587
+44,"Simic et al., 2016",44.870012,20.328897,RM,1,4,M,M,1,1,440.1,NA,W-M,2,2,535.3,NA,tilled,herbicides,community,N,N,7.0710678118654755,0.5892556509887896
+44,"Simic et al., 2016",44.870012,20.328897,RM,3,4,M,M,1,1,417.9,NA,W-M,2,2,120.7,NA,tilled,herbicides,community,N,N,7.0710678118654755,0.5892556509887896
+44,"Simic et al., 2016",44.870012,20.328897,RM,1,4,M,M,1,1,681.9,NA,W-M,2,2,812.1,NA,tilled,herbicides,community,N,N,7.0710678118654755,0.5892556509887896
+44,"Simic et al., 2016",44.870012,20.328897,RM,3,4,M,M,1,1,648.8,NA,W-M,2,2,290.7,NA,tilled,herbicides,community,N,N,7.0710678118654755,0.5892556509887896
+44,"Simic et al., 2016",44.870012,20.328897,RM,1,4,M,M,1,1,4163.2,NA,W-M,2,2,3392.7,NA,tilled,none,community,N,N,7.0710678118654755,0.5892556509887896
+44,"Simic et al., 2016",44.870012,20.328897,RM,3,4,M,M,1,1,2077.5,NA,W-M,2,2,2114.4,NA,tilled,none,community,N,N,7.0710678118654755,0.5892556509887896
+44,"Simic et al., 2016",44.870012,20.328897,RM,1,4,M,M,1,1,440.1,NA,Sb-W-M,3,3,555.6,NA,tilled,herbicides,community,N,N,5,0.4166666666666667
+44,"Simic et al., 2016",44.870012,20.328897,RM,4,4,M,M,1,1,417.9,NA,Sb-W-M,3,3,189.4,NA,tilled,herbicides,community,N,N,5,0.4166666666666667
+44,"Simic et al., 2016",44.870012,20.328897,RM,1,4,M,M,1,1,681.9,NA,Sb-W-M,3,3,1454.7,NA,tilled,herbicides,community,N,N,5,0.4166666666666667
+44,"Simic et al., 2016",44.870012,20.328897,RM,4,4,M,M,1,1,648.8,NA,Sb-W-M,3,3,564.3,NA,tilled,herbicides,community,N,N,5,0.4166666666666667
+44,"Simic et al., 2016",44.870012,20.328897,RM,1,4,M,M,1,1,4163.2,NA,Sb-W-M,3,3,5861.6,NA,tilled,none,community,N,N,5,0.4166666666666667
+44,"Simic et al., 2016",44.870012,20.328897,RM,4,4,M,M,1,1,2077.5,NA,Sb-W-M,3,3,3628.5,NA,tilled,none,community,N,N,5,0.4166666666666667
+45,"Singer et al., 2000",42.76525,-76.548483,RM,2,2,M,M,1,1,NA,0.4,Sb-M,2,2,NA,0.2,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.76525,-76.548483,RM,2,2,M,M,1,1,NA,0.4,Sb-W/RCl-M,3,4,NA,2.4,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.76525,-76.548483,RM,3,2,M,M,1,1,NA,0.9,Sb-M,2,2,NA,1.9,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.76525,-76.548483,RM,3,2,M,M,1,1,NA,0.9,Sb-W/RCl-M,3,4,NA,1.6,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.76525,-76.548483,RM,4,2,M,M,1,1,NA,2.4,Sb-M,2,2,NA,1.4,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.76525,-76.548483,RM,4,2,M,M,1,1,NA,2.4,Sb-W/RCl-M,3,4,NA,0.7,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",43.154907,-78.203586,RM,3,2,M,M,1,1,NA,1.6,Sb-M,2,2,NA,2.5,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",43.154907,-78.203586,RM,3,2,M,M,1,1,NA,1.6,Sb-W/RCl-M,3,4,NA,1.3,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",43.154907,-78.203586,RM,4,2,M,M,1,1,NA,1.7,Sb-M,2,2,NA,1.6,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",43.154907,-78.203586,RM,4,2,M,M,1,1,NA,1.7,Sb-W/RCl-M,3,4,NA,6.3,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.765168,-76.870039,RM,2,2,M,M,1,1,NA,0.1,Sb-M,2,2,NA,0.3,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.765168,-76.870039,RM,2,2,M,M,1,1,NA,0.1,Sb-W/RCl-M,3,4,NA,0.4,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.765168,-76.870039,RM,3,2,M,M,1,1,NA,0.3,Sb-M,2,2,NA,0.3,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.765168,-76.870039,RM,3,2,M,M,1,1,NA,0.3,Sb-W/RCl-M,3,4,NA,0.2,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.765168,-76.870039,RM,4,2,M,M,1,1,NA,0.3,Sb-M,2,2,NA,0.1,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.765168,-76.870039,RM,4,2,M,M,1,1,NA,0.3,Sb-W/RCl-M,3,4,NA,0.7,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.642558,-77.147832,RM,2,2,M,M,1,1,NA,0.5,Sb-M,2,2,NA,2,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.642558,-77.147832,RM,2,2,M,M,1,1,NA,0.5,Sb-W/RCl-M,3,4,NA,2.5,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.642558,-77.147832,RM,3,2,M,M,1,1,NA,1.1,Sb-M,2,2,NA,1.7,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.642558,-77.147832,RM,3,2,M,M,1,1,NA,1.1,Sb-W/RCl-M,3,4,NA,0.9,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.642558,-77.147832,RM,4,2,M,M,1,1,NA,1,Sb-M,2,2,NA,2.6,tilled,herbicides,community,Y,N,0,0
+45,"Singer et al., 2000",42.642558,-77.147832,RM,4,2,M,M,1,1,NA,1,Sb-W/RCl-M,3,4,NA,9.9,tilled,herbicides,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.76525,-76.548483,RM,4,2,M,M,1,1,NA,470,Sb-M,2,2,NA,1264,tilled,none,community,Y,N,0,0
+45,"Singer et al., 2000",42.76525,-76.548483,RM,4,2,M,M,1,1,NA,470,Sb-W/RCl-M,3,4,NA,867,tilled,none,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",43.154907,-78.203586,RM,4,2,M,M,1,1,NA,233,Sb-M,2,2,NA,175,tilled,none,community,Y,N,0,0
+45,"Singer et al., 2000",43.154907,-78.203586,RM,4,2,M,M,1,1,NA,233,Sb-W/RCl-M,3,4,NA,611,tilled,none,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.765168,-76.870039,RM,4,2,M,M,1,1,NA,259,Sb-M,2,2,NA,35,tilled,none,community,Y,N,0,0
+45,"Singer et al., 2000",42.765168,-76.870039,RM,4,2,M,M,1,1,NA,259,Sb-W/RCl-M,3,4,NA,59,tilled,none,community,Y,N,7,0.5833333333333334
+45,"Singer et al., 2000",42.642558,-77.147832,RM,4,2,M,M,1,1,NA,560,Sb-M,2,2,NA,1165,tilled,none,community,Y,N,0,0
+45,"Singer et al., 2000",42.642558,-77.147832,RM,4,2,M,M,1,1,NA,560,Sb-W/RCl-M,3,4,NA,1494,tilled,none,community,Y,N,7,0.5833333333333334
+46,"Soon and Darwent, 1998",55.202226,-119.438397,LAST,6,4,sB,sB,1,1,NA,290,sR-sB-sB,3,2,NA,370,tilled,none,single species,N,N,0,0
+46,"Soon and Darwent, 1998",55.202226,-119.438397,LAST,6,4,sB,sB,1,1,NA,6,sR-sB-sB,3,2,NA,0,tilled,herbicides,single species,N,N,0,0
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,41,3,M,M,1,1,NA,180,Sb-M,2,2,NA,170,IC,herbicides,community,N,N,0,0
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,41,3,M,M,1,1,NA,180,Sb-M,2,2,NA,160,IC,herbicides,community,N,N,0,0
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,41,3,M,M,1,1,NA,180,O/Flm-Flm-M,3,3,NA,610,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,41,3,M,M,1,1,NA,180,O/Flm-Flm-M,3,3,NA,100,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,41,3,M,M,1,1,NA,180,O/Flm-Flm-M,3,3,NA,80,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,42,3,M,M,1,1,NA,350,Sb-M,2,2,NA,230,IC,herbicides,community,N,N,0,0
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,42,3,M,M,1,1,NA,350,Sb-M,2,2,NA,250,IC,herbicides,community,N,N,0,0
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,42,3,M,M,1,1,NA,350,O/Flm-Flm-M,3,3,NA,420,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,42,3,M,M,1,1,NA,350,O/Flm-Flm-M,3,3,NA,180,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,42,3,M,M,1,1,NA,350,O/Flm-Flm-M,3,3,NA,220,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,43,3,M,M,1,1,NA,100,Sb-M,2,2,NA,110,IC,herbicides,community,N,N,0,0
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,43,3,M,M,1,1,NA,100,Sb-M,2,2,NA,50,IC,herbicides,community,N,N,0,0
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,43,3,M,M,1,1,NA,100,O/Flm-Flm-M,3,3,NA,90,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,43,3,M,M,1,1,NA,100,O/Flm-Flm-M,3,3,NA,200,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+47,"Sosnoskie et al., 2009",40.781866,-81.930794,RM,43,3,M,M,1,1,NA,100,O/Flm-Flm-M,3,3,NA,170,IC,herbicides,community,Y,N,9.899494936611665,0.5499719409228703
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,5,4,sB,sB,1,1,4,0,Flm-Flm-sB/Flm,3,2,250,40,tilled,herbicides,community,Y,N,0,0
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,6,4,sB,sB,1,1,101,26,Flm-Flm-sB/Flm,3,2,214,186,tilled,herbicides,community,Y,N,0,0
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,7,4,sB,sB,1,1,109,210,Flm-Flm-sB/Flm,3,2,150,115,tilled,herbicides,community,Y,N,0,0
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,8,4,sB,sB,1,1,44,89,Flm-Flm-sB/Flm,3,2,285,228,tilled,herbicides,community,Y,N,0,0
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,5,4,sB,sB,1,1,0,0,Flm-Flm-sB/Flm,3,2,230,31,tilled,herbicides,community,Y,N,0,0
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,6,4,sB,sB,1,1,39,12,Flm-Flm-sB/Flm,3,2,183,52,tilled,herbicides,community,Y,N,0,0
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,7,4,sB,sB,1,1,70,18,Flm-Flm-sB/Flm,3,2,81,43,tilled,herbicides,community,Y,N,0,0
+48,"Stevenson et al., 1997",48.828344,-72.540739,RM,8,4,sB,sB,1,1,0,1,Flm-Flm-sB/Flm,3,2,0,1,tilled,herbicides,community,Y,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,8,3,W,W,1,1,NA,2.75,Fa-W-W,3,2,NA,1.05,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,NA,44.5,Fa-W-W,3,2,NA,7.7,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,8,3,W,W,1,1,NA,11.2,Fa-W-W,3,2,NA,1.03,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,NA,32.4,Fa-W-W,3,2,NA,21.1,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,118.4,NA,Fa-W-W,3,2,40.7,NA,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,88.9,NA,Fa-W-W,3,2,67.4,NA,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,7,NA,Fa-W-W,3,2,8,NA,tilled,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,230,NA,Fa-W-W,3,2,74,NA,NT,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,13,NA,Fa-W-W,3,2,19,NA,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,204,NA,Fa-W-W,3,2,37,NA,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",8.019806,39.160252,RM,10,3,W,W,1,1,138,NA,Fa-W-W,3,2,67,NA,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,5,3,W,W,1,1,NA,11.4,Fa-W-W,3,2,NA,3.26,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,6,3,W,W,1,1,NA,11.5,Fa-W-W,3,2,NA,7.85,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,8,3,W,W,1,1,NA,247,Fa-W-W,3,2,NA,73.5,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,5,3,W,W,1,1,NA,103.5,Fa-W-W,3,2,NA,57.9,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,6,3,W,W,1,1,NA,163.6,Fa-W-W,3,2,NA,30.6,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,7,3,W,W,1,1,NA,36.1,Fa-W-W,3,2,NA,6.42,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,8,3,W,W,1,1,NA,239.8,Fa-W-W,3,2,NA,127.2,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,10,3,W,W,1,1,224.5,NA,Fa-W-W,3,2,197.1,NA,IC,herbicides,single species,N,N,0,0
+49,"Taa et al., 2004",7.106247,39.200667,RM,10,3,W,W,1,1,200.8,NA,Fa-W-W,3,2,161.8,NA,IC,herbicides,single species,N,N,0,0
+50,"VanGessel et al., 2004",39.179746,-76.182421,LAST,6,4,M,M,1,1,NA,96,Sb-M,2,2,NA,87,IC,herbicides,community,N,N,7.0710678118654755,0.3928371006591931
+50,"VanGessel et al., 2004",39.179746,-76.182421,LAST,6,4,M,M,1,1,NA,96,W/Sb-M,2,3,NA,81,IC,herbicides,community,N,N,8.717797887081348,0.726483157256779
+50,"VanGessel et al., 2004",39.179746,-76.182421,LAST,6,4,M,M,1,1,NA,96,Sb-W-M,3,3,NA,64,IC,herbicides,community,N,N,6.557438524302,0.5464532103585
+51,"White et al., 2004",38.879959,-99.327116,RM,21,4,W,F-W,2,1,NA,19,So-F-W,3,3,NA,19,tilled,herbicides,single species,N,Y,1.4142135623730951,0.07856742013183862
+51,"White et al., 2004",38.879959,-99.327116,RM,21,4,W,F-W,2,1,NA,19,So-Su-F-W,4,4,NA,19,tilled,herbicides,single species,N,Y,3,0.1875
+51,"White et al., 2004",38.879959,-99.327116,RM,22,4,W,F-W,2,1,NA,36,So-F-W,3,3,NA,23,tilled,herbicides,single species,N,Y,1.4142135623730951,0.07856742013183862
+51,"White et al., 2004",38.879959,-99.327116,RM,22,4,W,F-W,2,1,NA,36,So-Su-F-W,4,4,NA,19,tilled,herbicides,single species,N,Y,3,0.1875
+51,"White et al., 2004",38.879959,-99.327116,RM,23,4,W,F-W,2,1,NA,0,So-F-W,3,3,NA,11,tilled,herbicides,single species,N,Y,1.4142135623730951,0.07856742013183862
+51,"White et al., 2004",38.879959,-99.327116,RM,23,4,W,F-W,2,1,NA,0,So-Su-F-W,4,4,NA,11,tilled,herbicides,single species,N,Y,3,0.1875
+51,"White et al., 2004",38.879959,-99.327116,RM,24,4,W,F-W,2,1,NA,47,So-F-W,3,3,NA,42,tilled,herbicides,single species,N,Y,1.4142135623730951,0.07856742013183862
+51,"White et al., 2004",38.879959,-99.327116,RM,24,4,W,F-W,2,1,NA,47,So-Su-F-W,4,4,NA,47,tilled,herbicides,single species,N,Y,3,0.1875
+51,"White et al., 2004",38.879959,-99.327116,RM,25,4,W,F-W,2,1,NA,36,So-F-W,3,3,NA,29,tilled,herbicides,single species,N,Y,1.4142135623730951,0.07856742013183862
+51,"White et al., 2004",38.879959,-99.327116,RM,25,4,W,F-W,2,1,NA,36,So-Su-F-W,4,4,NA,27,tilled,herbicides,single species,N,Y,3,0.1875
+51,"White et al., 2004",38.879959,-99.327116,RM,26,4,W,F-W,2,1,NA,1,So-F-W,3,3,NA,1,tilled,herbicides,single species,N,Y,1.4142135623730951,0.07856742013183862
+51,"White et al., 2004",38.879959,-99.327116,RM,26,4,W,F-W,2,1,NA,1,So-Su-F-W,4,4,NA,1,tilled,herbicides,single species,N,Y,3,0.1875
+51,"White et al., 2004",38.879959,-99.327116,RM,27,4,W,F-W,2,1,NA,103,So-F-W,3,3,NA,1,tilled,herbicides,single species,N,Y,1.4142135623730951,0.07856742013183862
+51,"White et al., 2004",38.879959,-99.327116,RM,27,4,W,F-W,2,1,NA,103,So-Su-F-W,4,4,NA,1,tilled,herbicides,single species,N,Y,3,0.1875
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,LAST,3,4,Tr,Tr,1,1,19.5,18.9,Po-Tr-Fp-Tr,4,3,15.8,16.2,tilled,mechanical,community,N,N,8.082903768654761,0.6735753140545634
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,LAST,8,4,Tr,Tr,1,1,20.4,48.8,Po-Tr-Fp-Tr,4,3,17.1,33.1,tilled,mechanical,community,N,N,8.082903768654761,0.6735753140545634
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,LAST,13,4,sTr,sTr,1,1,54.1,49.9,Po-sTr-Fp-sTr,4,3,39.5,21.5,tilled,mechanical,community,N,N,6,0.6666666666666666
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,LAST,18,4,W,W,1,1,25.3,30.9,Po-W-Fp-W,4,3,20.2,25,tilled,mechanical,community,N,N,8.082903768654761,0.6735753140545634
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,LAST,23,4,sW,sW,1,1,16.1,26.9,Fp-sW-Fp-sW,2,2,11.8,16.5,tilled,mechanical,community,N,N,6,0.6666666666666666
+52,"Wozniak and Soroka, 2015",51.30387,23.613546,LAST,28,4,sW,sW,1,1,16.5,19.3,Fp-sW-Fp-sW,2,2,16.8,21.5,tilled,mechanical,community,N,N,6,0.6666666666666666
+53,"Wozniak, 2003",51.295943,23.619321,AVG,3.5,4,sB,sB,1,1,30.5,101,Po-sB,2,2,24.5,93,tilled,mechanical,community,N,N,0,0
+53,"Wozniak, 2003",51.295943,23.619321,AVG,3.5,4,sB,sB,1,1,30.5,101,Fp-sB,2,2,20.3,56,tilled,mechanical,community,N,N,0,0
+53,"Wozniak, 2003",51.295943,23.619321,AVG,3.5,4,sB,sB,1,1,10.9,56,Po-sB,2,2,10.9,53,tilled,herbicides,community,N,N,0,0
+53,"Wozniak, 2003",51.295943,23.619321,AVG,3.5,4,sB,sB,1,1,10.9,56,Fp-sB,2,2,14.3,32,tilled,herbicides,community,N,N,0,0
+54,"Young et al., 1996",46.726104,-117.153548,RM,3,4,W,W,1,1,NA,60,sB-Fp-W,3,3,NA,1,IC,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+54,"Young et al., 1996",46.726104,-117.153548,RM,6,4,W,W,1,1,NA,128,sB-Fp-W,3,3,NA,19,IC,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+54,"Young et al., 1996",46.726104,-117.153548,AVG,3.5,4,W,W,1,1,NA,19,sB-Fp-W,3,3,NA,27,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958
+54,"Young et al., 1996",46.726104,-117.153548,AVG,3.5,4,W,W,1,1,NA,64,sB-Fp-W,3,3,NA,53,tilled,herbicides,community,N,N,7.54983443527075,0.6291528696058958

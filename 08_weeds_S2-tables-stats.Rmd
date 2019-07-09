@@ -1,0 +1,195 @@
+---
+title: "S2 Tables for Manuscript 'Does crop diversification supress weeds? A meta-analysis"
+author: " "
+date: " "
+output:
+  pdf_document:
+    fig_cap: yes
+    keep_tex: yes
+classoption: landscape
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, knitr.table.format = "latex")
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(here)
+setwd(here())
+```
+
+#Statistical summaries
+
+All data and code for producing these summaries is available on github at https://github.com/vanichols/Weisberger-et-al-2019
+
+Means, standard errors of the mean (SEM), Satterthwaite degrees of freedom (df), t-value, 99% confidence interval (CI) bounds and p-values are presented. Effects were determined to be significant at alpha = 0.01. 
+
+```{r stats all}
+
+read_csv("stats_lmer-resp.csv") %>%
+  mutate_if(is.numeric, round, 3) %>%
+  mutate(p_val = ifelse(p_val == 0.000, "<0.001", p_val),
+         df = round(df, 0),
+         mod = recode(mod,
+                      den = "Density",
+                      bio = "Biomass")) %>%
+  
+    rename(Moderator = mod,
+         Estimate = est,
+         `SEM` = se,
+         #`Standard Error` = se,
+         #`Degrees of Freedom` = df,
+         `p-value` = p_val,
+         `Lower 99%CI` = ci_99low,
+         `Upper 99%CI` = ci_99up
+         ) %>%
+  select(-desc) %>%
+  kable(caption = "Weed density and biomass estimates", align = "c") %>% 
+  row_spec(0, bold = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"),
+                full_width = T)
+
+```
+
+
+```{r stats loo all}
+
+read_csv("stats_LOO-resp.csv")  %>%
+  select(-min99ci_per, -max99ci_per) %>%
+    mutate_if(is.numeric, round, 3) %>%
+  mutate(resp = recode(resp,
+                       bio = "Biomass",
+                       den = "Density")) %>%
+  rename(Response = resp,
+         `Minimum 99% CI Value` = min99ci,
+         `Maximum 99% CI Value` = max99ci) %>%
+  knitr::kable(caption = "Leave-one-out sensitivity analysis summary for overall estimates",
+               align = "c") %>%
+  row_spec(0, bold = T) %>%
+  kable_styling(latex_options = c("striped", "hold_position"),
+                full_width = T)
+
+```
+
+
+```{r stats mods den}
+
+read_csv("stats_lmer-mods.csv") %>%
+  mutate_if(is.numeric, round, 3) %>%
+  mutate(p_val = ifelse(p_val == 0.000, "<0.001", p_val),
+         df = round(df, 0)) %>%
+  filter(resp == "den") %>%
+  select(-mod_code, -lvls, -resp) %>%
+  rename(Moderator = mod_nice,
+         Level = desc,
+         Estimate = est,
+         `SEM` = se,
+         #`Standard Error` = se,
+         #`Degrees of Freedom` = df,
+         `p-value` = p_val,
+         `Lower 99%CI` = ci_99low,
+         `Upper 99%CI` = ci_99up
+         ) %>%
+  kable(caption ="Weed density moderator level significances", align = "c")%>%
+  row_spec(0, bold = T) %>%
+ collapse_rows(columns = 1, latex_hline = "major", valign = "middle") %>%
+  kable_styling(latex_options = c("striped", "hold_position"),
+                full_width = T
+                )
+
+```
+
+
+```{r stats mods bio}
+
+read_csv("stats_lmer-mods.csv") %>%
+   mutate_if(is.numeric, round, 3) %>%
+  mutate(p_val = ifelse(p_val == 0.000, "<0.001", p_val),
+         df = round(df, 0)) %>%
+  filter(resp == "bio") %>%
+  select(-mod_code, -lvls, -resp) %>%
+  rename(Moderator = mod_nice,
+         Level = desc,
+         Estimate = est,
+         `SEM` = se,
+         #`Degrees of Freedom` = df,
+         `p-value` = p_val,
+         `Lower 99%CI` = ci_99low,
+         `Upper 99%CI` = ci_99up
+         ) %>%
+  kable(caption = "Weed biomass moderator level significances", align = "c")%>%
+   row_spec(0, bold = T) %>%
+   collapse_rows(columns = 1, latex_hline = "major", valign = "middle") %>%
+
+  kable_styling(latex_options = c("striped", "condensed", "hold_position"),
+                full_width = T)
+
+```
+
+
+```{r stats loo mods}
+
+read_csv("stats_LOO-mods.csv")  %>%
+  select(-min99ci_per, -max99ci_per) %>%
+    mutate_if(is.numeric, round, 3) %>%
+  mutate(resp = recode(resp,
+                       bio = "Biomass",
+                       den = "Density")) %>%
+  rename(Response = resp,
+         Moderator = mod,
+         Level = modlvl,
+         `Minimum 99% CI Value` = min99ci,
+         `Maximum 99% CI Value` = max99ci) %>%
+  kable(caption = "Leave-one-out sensitivity analysis results, moderators", align = "c")%>%
+  #row_spec(1, bold = T) %>%
+  collapse_rows(columns = 1:2, latex_hline = "major", valign = "middle") %>%
+  kable_styling(latex_options = c("striped", "hold_position"),
+                full_width = T)
+
+```
+
+
+```{r stats cont}
+
+read_csv("stats_lmer-mods-contrasts.csv") %>%
+   mutate_if(is.numeric, round, 3) %>%
+  mutate(p.value = ifelse(p.value == 0.000, "<0.001", p.value),
+         df = round(df, 0),
+         resp = recode(resp, 
+                       den = "Density",
+                       bio = "Biomass")) %>%
+  select(-mod_code) %>%
+  rename(Response = resp,
+         Moderator = mod_nice,
+         Estimate = est,
+         `SEM` = se,
+         #`Standard Error` = se,
+         #`Degrees of Freedom` = df,
+         Statistic = statistic,
+         `p-value` = p.value) %>%
+  kable(caption = "Comparisons of moderator level estimates", 
+               align = "c")%>%
+   row_spec(0, bold = T) %>%
+   collapse_rows(columns = 1, latex_hline = "major", valign = "middle") %>%
+ kable_styling(latex_options = c("hold_position","scale_down"),
+                            full_width = T)
+
+```
+
+
+```{r stats gbm}
+
+read_csv("stats_gbm.csv")  %>%
+  mutate(rel_inf = round(rel_inf, 2)) %>%
+  rename(Moderator = var,
+         `Relative Influence` = rel_inf) %>%
+kable(caption = "Moderator relative influence as estimated by a generalized boosted regression model", align = "c")%>%
+   row_spec(0, bold = T) %>%
+    kable_styling(latex_options = c("striped", "condensed"),
+                  full_width = T)
+
+
+```

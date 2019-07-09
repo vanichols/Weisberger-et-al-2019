@@ -1,0 +1,65 @@
+---
+title: "S2 Fig for Manuscript 'Does crop diversification supress weeds? A meta-analysis"
+author: " "
+date: " "
+output:
+  pdf_document:
+    fig_cap: yes
+    keep_tex: yes
+header-includes:
+- \usepackage{float}
+- \floatplacement{figure}{H}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F, knitr.table.format = "latex")
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(here)
+setwd(here())
+```
+#Effect sizes over time
+
+Effect sizes over time were investigated to look at trends in effect size and precision of estimates. Due to fewer studies, weed biomass responses are not known to the same precision as weed density response. 
+
+```{r trends over time, fig.cap="Effect size and 99% confidence intervals for accumulated studies by year, red indicates estimate is significantly less than 0"}
+
+sdx <- read_csv("stats_est-over-time.csv")
+
+
+# make fig ----------------------------------------------------------------
+
+sdx %>%
+  mutate(mysig = ifelse(ci_99up < 0, "sig", "ns"),
+         mod_nice = recode(mod,
+                           bio = "Weed Biomass",
+                           den = "Weed Density"),
+         mod_nice = factor(mod_nice, levels = rev(c("Weed Biomass", "Weed Density")))) %>%
+  ggplot(aes(year, est, color = mysig)) +  
+  geom_hline(yintercept = 0) +
+  geom_pointrange(aes(ymin = ci_99low, ymax = ci_99up), size = 1.1) + 
+  
+  scale_color_manual(values = c("gray50", "red")) +
+  guides(color = F) +
+  labs(x = NULL, y = "Natural Log of (Diverse/Simple) Weed Response") +
+  
+  facet_grid(~mod_nice, scales = "free_x") +
+  
+  theme(
+    panel.spacing = unit(0.2, "lines"),
+    panel.background = element_rect(fill = NA),
+    panel.border = element_rect(colour = "black", fill = NA, size = 1),
+    panel.grid.major.y = element_line( size = 0.1, color = "gray80", linetype = "dashed"),
+    panel.grid.minor.y = element_line( size = 0.1, color = "gray80", linetype = "dashed"),
+    
+    strip.background = element_blank(),
+    strip.text.x = element_text(size = rel(1.2), 
+                                vjust = 2),
+    strip.text.y = element_blank())
+  
+  
+  
+
+
+```
